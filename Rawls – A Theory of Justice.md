@@ -130,3 +130,50 @@ __Laut Intuitionismus gibt es viele Güter, deren Ordnung in jeder Situation int
 
 #### 8. The Priority Problem
 
+* Intuitionismus klärt die Priorisierungsfrage für die Grundprinzipien unzureichend.
+* Gesucht ist ein Verfahren, bei dem möglichst wenige Konflikte auftreten.
+* Idee: Verwende eine serielle (lexikographische) Ordnung, das heißt sortiere die Grundprinzipien nach Wichtigkeit und dann innerhalb eines Prinzips naćh dem Maß der Förderung dessen.
+* Utilitarismus sortiert Nützlichkeit an die oberste Stelle.
+* Bei der Gerechtigkeit als Fairness soll im Urzustand darüber entschieden werden.
+* Problem: Es gibt möglicherweise Situationen, in denen so eine Aufstellung nicht gemacht werden kann. Dann müssen wir auf den Intuitionismus zurückfallen.
+
+__Wenn man mehrere Güter hat, müssen sie irgendwie priorisiert werden. Dies soll bei der Gerechtigkeit als Fairness im Urzustand geregelt werden, soweit dies möglich ist.__
+
+#### 9. Some Remarks about Moral Theory
+
+* Ziel einer Moraltheorie ist, Grundsätze zu entwickeln, die mit unserem alltäglichen Moralverständnis übereinstimmen.
+* Unseren Gerechtigkeitssinn können wir nur mittels dieser Grundrechte verstehen, vergleichbar mit einer Grammatik, die ein Sprachgefühl formalisiert.
+* Ist eine solche Theorie gefunden, können mit ihr auch nichtalltägliche Sachverhalte untersucht werden – ebenfalls analog zur Grammatik.
+* Eine Moraltheorie muss jedoch noch mehr leisten: Ein Mensch kann inkonsistente Urteile fällen, eine Moraltheorie muss jedoch konsistent sein.
+* Es gibt also einen Unterschied zwischen _bedachtem Urteil (considered judgement)_, das ein unparteiischer Beobachter fällen kann, und _reflektiertem Gleichgewicht (reflective equilibrium)_, das man erreicht, nachdem man eventuelle Inkonsistenzen geglättet hat. Hierbei können sich die Urteile auch radikal verändern, da bestenfalls alle möglichen philosophischen Argumente abgewägt werden.
+* Da es utopisch ist, eine vollständige Abwägung zu machen, wird versucht, sie möglichst gut zu approximieren.
+* Es ist unklar, ob ein solches Gleichgewicht existiert, eindeutig ist und überhaupt erreichbar. In diesem Buch wird davon ausgegangen, dass klassische Moraltheorien bereits gute Approximationen liefern und sie werden mit der der Gerechtigkeit als Fairness verglichen.
+
+__Eine Moraltheorie soll mit unserem Alltagsverständnis von Moral übereinstimmen und dann als Anhaltspunkt in schwierigen Fällen dienen, ähnlich wie eine Grammatik bei Sprachverständnis. Dabei müssen möglichst alle Argumente bedacht werden (reflektiertes Gleichgewicht). Da das jedoch nicht möglich ist, werden nur die klassischen Theorien mit der Gerechtigkeit als Fairness verglichen.__
+
+### Chapter 2: The Principles of Justice
+
+* Gerechtigkeitstheorie hat zwei Teile: Formulierung von Prinzipien anhang einer Ausgangslag, und ein Argument, welches Prinzip das zu akzeptierende ist.
+
+#### 10. Institutions and Formal Justice
+
+* Vorerst betrachten wir Prinzipien für gerechte Institutionen.
+* Institution: Öffentliches System von Regeln um Ämter, ihre Rechte und Pflichten zu bestimmen. Daraus ergeben sich erlaubte und verbotene Handlungen und Strafen und Verteidigung gegen Missbrauch.
+* Weiter: Eine Institution ist die Realisierung eines solchen Regelsystems.
+* Ob eine Institution gerecht ist, muss anhand der Realisierung entschieden werden, beziehungsweise was für eine Realisierung unter einem System möglich ist.
+* Mit Öffentlichkeit ist gemeint, dass jeder, der dem System unterliegt, die Regeln kennt und weiß, dass die anderen es auch tun, zumindest hinreichend.
+* Eine Institution sollte so aufgebaut sein, dass ihre Teilnehmer automatisch ihren Werten zugute handeln. Beispiel: Die unsichtbare Hand mit den rationalen Egoisten als Teilnehmern.
+* Beachte: Eine unrechte Regel impliziert nicht eine unrechte Institution impliziert nicht ein untechtes Sozialsystem als Ganzes. So kann eine Ungerechtigkeit enthalten sein, die eine andere ausgleicht.
+* Die Umkehrung gilt analog.
+* Rituale müssen auch besprochen werden, aber nicht an dieser Stelle.
+* _Formale Gerechtigkeit (formal justice):_ Konsistente, unparteiische Umsetzung einer Institution. (Prinzipien- beziehungsweise Verfassungstreue)
+* Formale Gerechtigkeit impliziert nicht Gerechtigkeit, aber es gibt gewisse Prinzipien, die eine formale Gerechtigkeit notwendig mitbringt: Objektivität, Unbestechlichkeit, Unbefangenheit.
+* Auch ungerechte Systeme sollten konsistent umgesetzt werden, damit sie öffentlich bleiben können; ansonsten werden Benachteiligten möglicherweise noch weiter benachteiligt.
+* Ob zugunsten Benachteiligter von formaler Gerechtigkeit abgewichen werden sollte, ist schwierig zu beantworten, da es Erwartungen verdreht.
+* Später: Zusammenhang zwischen formaler und substantiver Gerechtigkeit.
+
+__Eine Institution ist einerseits ein öffentliches (das heißt allen bekanntes, und jeder weiß, dass es allen bekannt ist) System von Regeln, andererseits die Realisierung dieser Regeln. Eine Institution sllte die Prinzipien der Gesellschaft befördern. Beachte: Eine unrechte Regel impliziert nicht eine unrechte Institution oder ein unrechtes System als Ganzes und umgekehrt. Eine Institution muss aber objektiv, unbestechlich und unbefangen sein. Auch unrechte Systeme müssen konsequent umgesetzt werden, da sonst noch mehr Unrecht herrschte.__
+
+### 11 Two Principles of Justice
+
+
