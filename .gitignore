@@ -1,2 +1,2 @@
-# Ignore the picture files for Rosenberg
-'./Rosenberg – Den Schmerz überwinden, der zwischen uns steht (Bilder)/'
+# Ignore folders with additional data
+**/
