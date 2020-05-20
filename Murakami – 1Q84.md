@@ -264,9 +264,23 @@ Tengo besucht seinen Vater jetzt jeden Tag und hat sich dazu auch ein Hotelzimme
 
 Ushikawa stellt Nachforschungen zur alten Dame, Frau Otaka, an. Einige Informationen bekommt er von einem Makler. Außerdem schaut er, als Vertreter der Stiftung für neue japanische Wissenschaften und Künste getarnt, bei der _Beratungsstelle für Opfer von häuslicher Gewalt_ vorbei, die mit Frau Otaka in Verbindung stehen (auch wenn sie es ihm nicht sagen). Ushikawa überlegt auch, was den plötzlichen Tod von Otakas Tochter verursacht haben mag. Eine Theorie, der er nachgehen will, ist dass sie von ihrem Mann misshandelt wurde und Selbstmord beging (womit er, das weiß der Leser, auf der richtigen Spur ist).
 
-### 5. Aomam – Wir kriegen Sie
+### 5. Aomame – Wir kriegen Sie
 
 Aomame hat inzwischen einen Tagesrhythmus gefunden, bei dem sie viel Trainiert, Proust und die Puppe aus Luft liest und abends auf dem Balkon auf Tengo wartet. Eines Tages klopft es an der Tür und jemand vom NHK scheint davor zu stehen. Er beschuldigt Aomame (unter dem Namen Takai, der auf dem Klingelschild steht), eine Diebin zu sein. Erst nach langer Zeit gibt er auf, aber kündigt an, dass er sie irgendwann kriegen werde.
 
 ### 6. Tengo – Mir juckt der Daumen sehr
+
+Beim üblichen Gespräch mit Fukaeri erzählt sie ihm, der NHK-Mann sei wieder da gewesen. Auch die Krähe kommt wieder und sie (die Krähe) meinte anscheinend zu Fukaeri, sie solle die Tür nicht öffnen. Tengo überrascht ein sprechender Vogel gar nicht einmal mehr.
+
+Tengo wird von den drei Schwestern Tamura, Omura und Adachi, die sich um seinen Vater kümmern, eingeladen, auszugehen. Sie gehen zusammen essen und die drei Frauen sind nach einer Weile ziemlich angeheitert – Tengo hält sich beim Alkohol zurück. Sie sprechen ihm ihre Anerkennung dafür aus, dass er jeden Tag kommt, um seinen Vater zu besuchen. Später quetschen sie ihn aus, ob er eine Beziehung habe, und er erzählt widerwillig von seiner Affaire, die er bis vor einiger Zeit hatte.
+
+### 7. Ushikawa – Ich bin schon unterwegs
+
+Ushikawa kommt bei der alten Dame mit seinen Ermittlungen nicht wirklich weiter, deswegen verlagert er seine Suche zurück auf Aomame. Er ruft die sogenannte Fledermaus an, seine Verbindungsstelle zum Untergrund. Sie soll ihm Materialien zu Aomames Vergangenheit erstens bei den Zeugen Jehovas und zweitens im Fitnesstudio, in dem sie gearbeitet hat, beschaffen. Die Dienste sind teuer, aber nach zehn Tagen bring eine Mitarbeiterin der Fledermaus ein Paket vorbei und nimmt das Geld entgegen. In der Zwischenzeit hat Ushikawa auch herausgefunden, dass für Aomames alte Wohnung noch bis Ende Januar Miete bezahlt wird.
+
+Aus den Materialien, die er bekommen hat, zieht er die Vermutung, dass Aomame und die alte Dame unter einer Decke stecken. Er glaubt, dass beide eine Missbrauchsvergangenheit eint – daher auch das Frauenhaus –, auch wenn er nicht weiß, wie der Leader damit zusammenhängt, aber vielleicht habe er häusliche Gewalt ausgeübt. Über die Daten von den Zeugen Jehovas erfährt Ushikawa nur ein wenig über Aomames Familie (und ihren Vornamen, Masami), die Eltern und der Bruder seien noch immer Zeugen. Ushikawa fragt sich, ob Aomames Eltern sie wohl misshandelt haben.
+
+Dann findet er auch Unterlagen zur Grundschule, zu der Aomame gegangen ist, und er erinnert sich: Das ist dieselbe, die auch Tengo besucht hat. Ushikawa fühlt, dass es da einen Zusammenhang gibt – er war ja vorher von den Vorreitern dazu aufgefordert worden, Informationen über Tengo zu beschaffen.
+
+### 8. Aomame – Eine gar nicht so üble Tür
 
