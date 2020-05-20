@@ -23,12 +23,3 @@
   3. Welches meiner Bedürfnisse ist nicht erfüllt? Habe dabei Empathie für Dich selbst.
   4. Was könnte in der anderen Person lebendig sein, dass sie so handelt?
 
-* Zusammenfassung aus dem Buche:
-
-  <img src="C:\Users\jaspe\Nextcloud\sonstige Bücher\Rosenberg – Den Schmerz überwinden, der zwischen uns steht (Bilder)\Zusammenfassung 1.jpg" alt="Zusammenfassung 1" style="zoom: 25%;" />
-  
-  <img src="C:\Users\jaspe\Nextcloud\sonstige Bücher\Rosenberg – Den Schmerz überwinden, der zwischen uns steht (Bilder)\Zusammenfassung 2.jpg" alt="Zusammenfassung 2" style="zoom: 25%;" />
-
-  <img src="C:\Users\jaspe\Nextcloud\sonstige Bücher\Rosenberg – Den Schmerz überwinden, der zwischen uns steht (Bilder)\Zusammenfassung 3.jpg" alt="Zusammenfassung 3 (Gefühle und Bedürfnisse)" style="zoom:25%;" />
-
-<img src="C:\Users\jaspe\Nextcloud\sonstige Bücher\Rosenberg – Den Schmerz überwinden, der zwischen uns steht (Bilder)\Zusammenfassung 4.jpg" alt="Zusammenfassung 4 (Wie Sie die GFK-Methode anwenden können)" style="zoom:25%;" />
