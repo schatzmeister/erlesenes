@@ -308,3 +308,64 @@ Da über Aomame und die alte Dame nicht viel mehr herankommen ist, beschließt U
 
 ### 11. Aomame – Keine Vernunft, und an Güte fehlt es auch
 
+Aomame probiert zwei Schwangerschaftstests aus, die beide positiv ausfallen. Sie ist sich unsicher, was sie davon halten soll, aber jedenfalls entschließt sie sich, das Kind zu behalten. Ihr kommt die Idee, es könne Tengos Kind sein; sie ist überzeugt, an dem Tag empfangen zu haben, an dem sie den Leader getötet hat. Sie deutet nun auch ihre Träume entsprechend, und fühlt sich nicht mehr so alleine wie vorher. Aomame muss wieder einmal an Ayumi denken.
+
+Tamaru erzählt, er habe mit dem zuständigen NHK-Gebühreneintreiber gesprochen, und ist sich sicher, dass er tatsächlich nicht geklopft hat. Aomame habe es also vermutlich mit einem Verrückten zu tun. Tamaru erzählt, dass er, obwohl er schwul ist, einmal mit einer Frau geschlafen und sie geschwängert hat. Sein Kind sei jetzt siebzehn, aber er habe die Mutter schon seit vor der Geburt nicht mehr gesehen.
+
+### 12. Tengo – Die Gesetze der Welt beginnen sich zu lockern
+
+Tengo trifft im Sanatorium auf keine der drei Schwestern. Er verabschiedet sich von seinem Vater und bittet ihn außerdem, nicht mehr an Türen zu klopfen. Tengo glaubt nämlich, der Geist seines Vaters wandere Umher und klopfe bei Leuten – vor allem bei ihm – an den Türen, um Gebühren einzutreiben. Er erzählt ihm auch von der Puppe aus Luft.
+
+Als er nach Hause kommt, ist Fukaeri verschwunden. Sein Freund, der ihn in der Schule vertreten hat, sagt ihm in einem Gespräch, sie habe ihm einen Brief vorbeigebracht. Tengo erinnert sich an den Geschlechtsverkehr mit Fukaeri und seine vollkommene Erektion und seinen vollkommenen Erguss, den er hatte. Seitdem fühlt er kein sexuelles Verlangen mehr und er fragt sich, ob das zusammenhängt.
+
+Tengo geht aus, in die gleiche Kneipe wie vorher. Er überlegt sich, wie er Aomame finden kann. Ihm fällt wieder ein, dass Fukaeri meinte, sie sei ganz in der Nähe, und er hofft, dass das immer noch der Fall ist.
+
+### 13. Ushikawa – Wieder am Anfang
+
+Ushikawa hat zwei Brüder und eine Schwester. In der Familie waren alle erfolgreich und sahen gut aus. Anscheinend hatte aber ein entfernter Verwandter auch einen entstellten Kopf gehabt. Er hatte als Kind keine Freunde und sprach wenig. Aber er lernte trotzdem Rhetorik und genau aufzupassen und stopfte sich mit Wissen voll.
+
+Während Ushikawa über sein weiteres Vorgehen nachdenkt, nimmt er ein Bad zur Entspannung und hört Musik. Es läuft die Sinfonietta. Ihm wird etwas seltsam zu mute, also schaltet er das Radio ab und steigt aus der Wanne.
+
+Früher hatte Ushikawa eine Familie, eine Frau und zwei Töchter, aber er hatte sie schon seit Jahren nicht mehr gesehen. Die Töchter hatten seine Hässlichkeit nicht geerbt, aber vermutlich würde es irgendwann wieder auftauchen.
+
+Ushikawa erkundet die Gegend um Tengos Haus, um einen Ort für seine Observationen zu finden. Tatsächlich wurde kurz zuvor die Wohnung unter Tengos frei, sodass Ushikawa sie anmietet. Er hat von dort einen guten Ausblick auf den Hauseingang und stellt also seine Fotokamera dort auf, besorgt sich Proviant und richtet sich ein.
+
+### 14. Aomame – Das Kleine
+
+Aomame beginnt, ihr ungeborenes _das Kleine_ zu nennen. Sie stellt überrascht fest, dass sie an einen Gott glaubt, wenn auch nicht an den der Zeugen Jehovas, der für sie da ist. Sie fragt sich, wie er mit den Little People zusammenhängen könnte. Es gibt einen neuen Traum, in dem sie in einem kleinen weißen Zimmer ohne Fenster gefangen gehalten wird. Sie ist hochschwanger. Der Kahle und der mit dem Pferdeschwanz bewachen sie, aber um ihr das Kleine wegzunehmen, sobald es geboren ist. Es klopft wieder. Aomame nimmt die Pistole und wartet den NHK-Mann ab. 
+
+Die alte Dame erklärt, sie habe eine Stelle gefunden, an der Aomame ihr Kind bekommen kann. Tamaru berichtet, sie hätten eine komische Gestalt, einen hässlichen Mann, beobachtet, der sich bei der Weidenvilla herumtrieb. Tamaru befürchtet, er könne es auf Aomame abgesehen haben. Die alte Dame berichtet, dass sie spürt, wie sie älter wird. Aber auch ihr Zorn nimmt seit dem verhängnisvollen Tag ab, an dem Aomame den Leader getötet hat. Aomame bestätigt, dass es ihr genauso ginge, der Zorn sei zurückgedrängt in eine unbedeutende Ecke des Lebens.
+
+### 15. Tengo – Etwas, worüber man nicht sprechen darf
+
+Tengo geht noch einmal zu dem Spielplatz und zur Rutsche, um die Monde zu beobachten. Am nächsten Tag geht er in die Schule und liest Fukaeris Brief. Sie schreibt, sie habe gehen müssen, da sie beobachtet würden. Wovon schreibt sie jedoch nicht. Tengo ruft außerdem Komatsu an und macht mit ihm einen Termin aus, um sich zu unterhalten.
+
+Später am Abend treffen sich die beiden. Komatsu erzählt, Fukaeri sei bei ihrem Vormund Ebisono und stellt Tengo in dessen Namen die Frage, ob er etwas mit dem Mädchen gehabt habe. Tengo verneint – ihm kommt es nicht nach einer Beziehung vor, auch wenn er, mehr oder weniger,  mit Fukaeri geschlafen hat. Komatsu erzählt, was bei ihm passiert ist, als er vor einigen Monaten für zwei Wochen von der Bildfläche verschwunden ist: Er wurde entführt.
+
+### 16. Ushikawa – Eine leistungsstarke, ausdauernde, gefühllose Maschine
+
+Ushikawa erfährt, dass Tengo aktuell nicht zuhause ist, und er nutzt die Gelegenheit, um die Menschen des Hauses kennen zu lernen, indem er von seinem Versteck aus heimlich Fotos von ihnen macht. Er findet auch heraus, dass Fukaeri in dem Haus wohnt – vermutlich bei Tengo zu Gast. Er verfolgt sie einmal, als sie einkauft. Doch als er ein späteres Mal beobachtet, wie sie das Haus verlässt, schaut sie ihn durch das Objektiv der Kamera an. Er merkt, sein Versteck ist aufgeflogen, sie scheint ihm direkt in seine Seele zu blicken. Sie kehrt um und geht wieder ins Haus. Ushikawa fühlt mit einem Mal eine große Leere in sich.
+
+Ushikawa studierte Jura, geriet aber schon früh auf die schiefe Bahn, indem er mit der Unterwelt Kontakte aufbaute und ihnen vor Gericht als Anwalt, bei Geldwäsche und sonstigem half.
+
+Es klopft, Ushikawa bekommt besuch vom NHK-Mann. Er kann natürlich nicht öffnen, um zu zeigen, dass er gar keinen Fernseher besitzt. Er harrt aus, und behält dann die Haustür im Blick, um zu sehen, ob es wirklich jemand vom NHK war, oder wer weiß wer. Aber niemand kommt heraus, auch nach Stunden noch nicht.
+
+### 17. Aomame – Man hat nur ein Paar Augen
+
+Tamaru ruft an. Sie unterhalten sich ein wenig über Proust und dass Aomame mit de Lektüre nicht vorankommt, aber das nicht schlimm findet. Er konnte auch ein wenig mehr über den hässlichen Mann mit dem großen Kopf ausfindig machen: Dass er sich erkundigt hat über das Frauenhaus und möglicherweise auch über Aomame. Sie befinde sich deswegen möglicherweise in Gefahr. Aomame verspricht, aufzupassen.
+
+Aomame macht sich noch einen Kakao, dann geht sie auf den Balkon. Sie sieht nur eine kleine Person vom Spielplatz gehen, die einen recht großen Kopf hat. Was sie nicht erahnt: Das ist Ushikawa, der Tengo gefolgt ist. Durch Tamarus Anruf hat Aomame Tengo wieder verpasst.
+
+### 18. Tengo – Wenn rotes Blut fließt
+
+Komatsu berichtet: Wurde von den Vorreitern entführt, einem Kahlen und einem mit Pferdeschwanz. Sie sperrten ihn zehn Tage in einen kleinen, weißen, fensterlosen Raum. Dann verhandelten sie mit ihm. Sie wussten alles über die Puppe aus Luft und sie verlangten, dass Komatsu alles in seiner Macht stehende täte, um eine weitere Verbreitung des Buches zu unterbinden. Sie erzählten ihm, Fukaeris Eltern seien beide gestorben. Sollte er nicht gehorchen, würden sie ihm den Ruf ruinieren. Aus Ermangelung einer Wahl stimmte er zu. Dann ließen sie ihn noch vier Tage eingesperrt, und dann brachten sie ihn zurück nach Tokio. Als er sich wieder etwas erholt hatte, sprach Komatsu mit Ebisono, von dem er auch erfuhr, Fukaeri sei wieder bei ihm und er habe sowieso die ganze Zeit gewusst, dass sie bei Tengo war. Die Vermisstenanzeige wurde denn auch zurückgenommen.
+
+Nun denken Tengo und Komatsu darüber nach, was das alles bedeuten könnte. Tengo äußert seine Vermutung, die Geschehnisse aus dem Buch könnten wirklich sein. Komatsu ist skeptisch, aber lässt sich auf diese Vorstellung ein. Er merkt an, dass Fukaeri vielleicht die Daughter, also der Klon der echten Fukaeri sei. Tengo ist davon völlig überrascht, aber muss zugeben, dass das schon sein könnte: Sie verhält sich seltsam, als fehle ihr etwas, und sie ist laut eigener Aussage unfruchtbar.
+
+Was Tengo Komatsu nicht mitteilt, ist dass sein neuer Roman in der Welt der Puppe aus Luft spielt. Komatsu fände das sicher nicht gut, wo er nach seiner Entführung Angst um sich haben muss, falls weitere Schriftstücke zu diesem Thema erscheinen.
+
+### 19. Ushikawa – Das kann kein normaler Mensch
+
+Fukaeri kommt an einem Vormittag wieder aus dem Haus, diesmal mit einer vollbepackten Umhängetasche – sie geht, um nicht wiederzukommen. Erneut schaut sie in Ushikawas Objektiv, als wüsste sie, wer dort lauert. Dann geht sie. Ushikawa bleibt tief beeindruckt zurück. Er fühlt eine Art Verbundung und eine tiefe Zuneigung zu ihr. Etwas, das er in seiner Familie nie hatte. Er war eigentlich sogar froh gewesen, als seine Verbindungen zur Unterwelt ans Licht kamen und er seine Anwaltslizenz und seien Familie verlor.
+
+Tengo kommt vom Sanatorium zurück nach Hause. Als er ausgeht, folgt Ushikawa ihm. Tengo blickt sich zwar mehrfach um, aber bemerkt ihn nicht. Er muss draußen warten, während Tengo in einer Kneipe ist, und folgt ihm später zu einem Spielplatz, wo Tengo in den Himmel schaut. Aus seiner versteckten Position kann Ushikawa nicht festmachen, was genau er ansieht. Als Tengo also eine Weile später geht, nimmt Ushikawa dessen Position ein uns sieht gen Himmel. Was er erblickt, schockiert ihn: Zwei Monde. Er erinnert sich, dass zwei Monde auch in der Puppe aus Luft vorkamen.
