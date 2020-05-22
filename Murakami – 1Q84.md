@@ -284,3 +284,27 @@ Dann findet er auch Unterlagen zur Grundschule, zu der Aomame gegangen ist, und 
 
 ### 8. Aomame – Eine gar nicht so üble Tür
 
+Aomame träumt viel, seit sie in ihrem Versteck ist. Dabei wiederholen sich drei Träume immer wieder: Erstens liegt sie nackt auf einem Bett in einem dunklen Raum. Es gewittert ohne Blitze – wie in der Nacht, als sie den Leader getötet hat. Etwas ist mit ihr im Raum, aber es verschwindet durch eine Art Portal. Zweitens steht sie, ebenfalls nackt, auf der Stadtautobahn und wird von den Leuten angeglotzt. Dann kommt eine Frau und zieht ihr einen Mantel an. Drittens eine Reihe von Eindrücken, die nacheinander auf sie einprasseln, und während derer sie durchsichtig wird und ihre Gebärmutter sehen kann.
+
+Aomame telefoniert mit Tamaru; die NHK scheint gar nicht bei ihr geklopft zu haben. Aomame bestellt einen Schwangerschaftstest – sie hatte seit zwei Monaten nicht mehr ihre Periode, obwohl sie eigentlich extrem pünktlich ist. Mit der alten Dame beredet sie, dass sie – obwohl sie keinen Geschlechtsverkehr hatte – einfach fühlt, dass sie schwanger sei.
+
+Später taucht de NHK-Mann wieder auf.
+
+### 9. Tengo – Solange der Ausgang nicht versperrt ist
+
+Nachdem die vier sich trennen, bringt Tengo Schwester Adachi noch nach Hause; diese lädt ihn prompt ein, mit ihr zusammen Haschisch zu rauchen. Er will eigentlich nicht, aber aus irgendeinem Grund sagt er zu. Während seines Rausches bekommt er erneut die Szene mit Aomame im Klassenraum in den Sinn und erlebt sie noch einmal, diesmal aber viel realer als vorher. Sie ermahnt ihn, sie zu finden, solange noch Zeit bleibt.
+
+Tengo findet sich als nächstes zusammen mit Adachi in ihrem Bett wieder. Sie spricht kryptische Dinge, sie sei gestorben um in anderer Gestalt wiedergeboren zu werden. Sie warnt Tengo, dass die Puppe aus Luft nicht zurückkehren wird und er die Stadt so schnell wie möglich verlassen muss.
+
+Am nächsten Tag packt er seine Sachen, aber er fährt noch nicht gleich ab, sondern will noch einmal ins Sanatorium, um sich von seinem Vater zu verabschieden.
+
+### 10. Ushikawa – Solide Beweise sammeln
+
+Ushikawa macht sich auf den Weg zu Tengos und Aomames alter Grundschule. Er selbst hat schlechte Erinnerungen an seine Grundschulzeit, vor allem an den Sportunterricht. Er lässt sich von der Vizerektorin alle öffentlich zugänglichen Akten über Tengo und Aomame kopieren, unter dem Vorwand, er sei für die Stiftung da. Außerdem vermittelt sie ihm ein Gespräch mit der ehemaligen Klassenlehrerin, die inzwischen an einer anderen Schule arbeite. Auf dem Weg dorthin überlegt er, ob Aomame und Tengo ein Paar seien, verwirft dies aber schnell, auch wenn sie viel gemeinsam hatten.
+
+Frau Ota, die Klassenlehrerin, erzählt Ushikawa einiges von Tengo und Aomame, unter anderem davon, wie sie Tengo einmal bei sich aufgenommen und am nächsten Tag mit seinem Vater gesprochen hat, damit Tengo nicht mehr auf die Touren mitmusste. Sie glaubt nicht, dass die beiden Kinder befreundet waren.
+
+Da über Aomame und die alte Dame nicht viel mehr herankommen ist, beschließt Ushikawa, Tengos Spuren weiter zu verfolgen.
+
+### 11. Aomame – Keine Vernunft, und an Güte fehlt es auch
+
