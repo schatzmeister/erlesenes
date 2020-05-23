@@ -376,3 +376,9 @@ Zum ersten Mal in ihrem Leben fühlt Aomame sich schön, wenn sie in den Spiegel
 
 Aomame sieht Ushikawa auf der Rutsche sitzen und erkennt ihn sofort aus Tamarus Beschreibungen. Sie will ihn anrufen, aber entschließt sich dann, Ushikawa zu folgen. Sie geht ihm hinterher bis zum Haus, in dem er verschwindet und huscht hinterher. Am einen Briefkasten steht _Kawana_, Tengos Nachname. Nach einigem Hin und Her klingelt sie an dessen Tür, die Hand am Abzug ihrer Pistole. Niemand macht auf. Also geht sie zurück und ruft jetzt Tamaru an. Sie schildert ihm, wo Ushikawa wohnt und klärt ihn über die Zusammenhänge zu Tengo auf. Tamaru will sich etwas überlegen.
 
+### 21. Tengo – Irgendwo im Kopf
+
+Tengo wird mitten in der Nacht von Schwester Adachi angerufen: Sein Vater ist gestorben. Am nächsten Morgen macht sich Tengo also auf den Weg zurück ins Sanatorium. Anscheinend hat sich sein Vater um alles gekümmert, sodass Tengo sich nur um die Formalia kümmern muss. Vom Notar erhält er einen Umschlag, außerdem überlässt ihm sein Vater sein Bankkonto. Tengo schaut den Inhalt des Umschlages an: Darin finden sich Geld, eine Sammlung von Zeitungsartikeln und Urkunden von Tengos Leistungen und Unterlagen von der NHK-Tätigkeit seines Vaters, vor allem eine Würdigung als hervorragender Mitarbeiter. Außerdem ist ein Foto beigelegt, mit Tengos Vater, einer Frau und einem Säugling. Tengo vermutet, die Frau sei seine Mutter. Tengos Vater hatte ihm immer gesagt, es gäbe keine Fotos von ihr. Tengo fällt auf, dass seine Mutter eine gewisse Ähnlichkeit zu Kyoko Yasuda, seiner älteren Freundin, hat.
+
+Beim Essen bringt Schwester Omura noch die alte NHK-Uniform von Tengos Vater vorbei. Er wolle mit ihr eingeäschert werden. Tengo ist sich unsicher, weil die Uniform eigentlich Eigentum der NHK ist, aber die Schwestern können ihn überreden. Adachi will mit Tengo zusammen am nächsten Tag zur Einäscherung gehen. Tengo übernachtet im Zimmer seines Vaters.
+
