@@ -382,3 +382,50 @@ Tengo wird mitten in der Nacht von Schwester Adachi angerufen: Sein Vater ist ge
 
 Beim Essen bringt Schwester Omura noch die alte NHK-Uniform von Tengos Vater vorbei. Er wolle mit ihr eingeäschert werden. Tengo ist sich unsicher, weil die Uniform eigentlich Eigentum der NHK ist, aber die Schwestern können ihn überreden. Adachi will mit Tengo zusammen am nächsten Tag zur Einäscherung gehen. Tengo übernachtet im Zimmer seines Vaters.
 
+### 22. Ushikawa – Augen voller Mitgefühl
+
+Tengo verlässt wieder das Haus (um sich mit Komatsu zu treffen), aber Ushikawa folgt ihm nicht. Stattdessen geht er noch einmal zum Park, um die Monde zu betrachten. Er beschließt, diesen Umstand vorerst einfach zu akzeptieren. Nachdem er wieder zuhause ist, hört er woanders im Haus zweimal eine Klingel, dann kommt eine unbekannte Frau heraus. Ushikawa macht ein Foto. Man kann darauf wenig erkennen, da es dunkel ist und die Frau sich einen Schal vors Gesicht gezogen hat, aber von der Statur vermutet Ushikawa, es könnte Aomame sein. Er fragt sich nur, warum sie zu Tengo gekommen ist, obwohl er gar nicht zuhause ist, das lässt ihn zweifeln. Tengo kommt auch nicht nach Hause, bevor Ushikawa ins Bett geht.
+
+Am nächsten Morgen wartet Ushikawa darauf, dass Tengo zur Schule geht, aber er kommt nicht aus dem Haus. Er erfährt, dass er sich wegen eines Trauerfalls abgemeldet hat. Ushikawa weiß, wie Tengos Mutter umgekommen ist: Sie brannte mit einem anderen Mann und dem Kind durch und wurde von einem Unbekannten – vermutlich ihrem Freund – erdrosselt. Danach hatte Tengos Vater sich ihm angenommen.
+
+Den Tag über passiert nichts Besonderes mehr, doch mitten in der Nacht wacht er auf, weil er irgendwas im Raum spürt. Hände legen sich um seinen Hals und würgen ihn. Ushikawa meint, sterben zu müssen. Aber etwas später wacht gefesselt er wieder auf. Ein Mann erklärt ihm, so schnell sterbe man nicht.
+
+### 23. Aomame – Das Licht existiert
+
+Aomame kann nicht schlafen. Deswegen liest sie wieder einmal die Puppe aus Luft. Sie spürt, dass das es eine Verbindung der Geschehnisse im Buch zu ihr gibt, vor allem zu dem Kleinen, aber sie kann nicht ausmachen, welche.
+
+### 24. Tengo – Abschied von der Stadt der Katzen
+
+Tengo und Adachi gehen beide zum Krematorium, um seinen Vater einzuäschern. Seine NHK-Uniform passt perfekt zu ihm. Während die beiden warten, spricht Tengo Adachi auf ihren früheren Tod an. Sie meint, sie erinnert sich nur daran, dass sie von einem fremden Mann erwürgt worden war. Außerdem reden sie von den Geheimnissen, die man mit ins Grab nimmt. Sie warnt Tengo, nach den Geheimnissen seines Vaters zu forschen. Es sei wie ein Loch, durch das der Verstorbene seine Geheimnisse mitnimmt, und man müsse das Loch schließen, um wieder zum Leben zurückkommen zu können. Adachi verspricht, sich um die Beisetzung der Urne zu kümmern, Tengo fährt nach Hause. Er hat das Gefühl, dass er aber schon noch einmal in das Loch gucken müsse, bevor es sich schließt.
+
+### 25. Ushikawa – Kalt oder nicht, Gott ist hier
+
+Der Mann, der Ushikawa bewusstlos gewürgt hat, ist natürlich Tamaru. Er fragt Ushikawa zu allem aus, was er bezüglich Aomame, Tengo und der alten Dame weiß. Leider hat er zu viel herausbekommen, sodass Tamaru, wie er meint, keine Wahl hat, als Ushikawa umzubringen. Dessen letztes Bild vor Augen ist das Haus, in dem er früher mit seiner Familie gewohnt hat, und der Hund der Familie. Danach ruft Tamaru die Vorreiter über eine Nummer an, die er von Ushikawa bekommen hat, um ihnen vom Tod zu berichten, sodass sie sich um die Leiche kümmern können. Der Mann am anderen Ende will mit Aomame sprechen, ihr aber keinen Schaden. Tamaru sagt, er werde darüber nachdenken.
+
+#### 26. Aomame – Romantik
+
+Tamaru ruft an. Er berichtet Aomame, er habe Ushikawa beseitigt und außerdem sei der Kawana, der in dem Haus wohne, tatsächlich Tengo. Aomame bittet Tamaru eine Nachricht zu übermitteln, er möge zur Rutschbahn kommen und alles mitnehmen, das er behalten möchte. Tamaru tut dies und meldet später, Tengo habe zugesagt und erinnere sich außerdem noch genau an Aomame – was sie gar nicht mehr gehofft hatte. Aomame sagt, sie werde mit Tengo verschwinden und könne weder Tamaru noch die alte Dame je wiedersehen. Beiden tut die Trennung weh, aber sie wissen, dass es nötig ist. Die Pistole soll Aomame behalten, auch wenn Tamaru hofft, dass sie sie nicht einsetzen muss – entgegen dem, was Tschechow meint. Von der alten Dame verabschiedet Aomame sich nicht.
+
+### 27. Tengo – Diese Welt allein genügt nicht
+
+Tengo wird morgens vom Telefon aufgeweckt. Es ist Tamaru, der Aomames Bitte nach einem Treffen überbringt. Tengo sagt natürlich zu. Er packt seine Sachen und versucht aufgeregt, den Tag herumzubekommen. Am Abend macht er sich auf den Weg. Er zweifelt einen Moment, ob es richtig ist, zu gehen, oder ob es vielleicht eine Falle ist. Aber dann setzt er sich auf die Rutsche und wartet. Er schließt die Augen und nach einer Weile spürt er, wie Aomame seine Hand umfasst.
+
+### 28. Ushikawa – Und ein Teil seiner Seele
+
+Ushikawas Leichnahm ist bei den Vorreitern in einer Kühlkammer. Der Kahle, Sicherheitschef, muss sich vor den Oberen verantworten. Er berichtet vom Telefonat mit Tamaru und alles, was er weiß. Da Ushikawa ihn aber nicht zwischendurch auf den neuesten Stand gebracht hat, gibt es nicht viel zu sagen. Er muss Ermittlungen anstellen, um Aomame so schnell wie möglich zu finden und macht sich dazu auf den Weg nach Tokio – allerdings erst, nachdem Tengo und Aomame einander schon getroffen haben.
+
+Abends kommen aus Ushikawas Mund die Little People und beginnen aus seiner Seele eine Puppe aus Luft zu spinnen.
+
+### 29. Aomame – Ich lasse deine Hand nie mehr los
+
+Aomame und Tengo machen sich auf den Weg, um 1Q84 – beziehungsweise die Stadt der Katzen – zu verlassen.
+
+### 30. Tengo – Wenn ich mich nicht irre
+
+Die beiden nehmen ein Taxi in Richtung Stadtautobahn. Sie erzählen einander das Nötigste über sich. Aomame sagt, sie glaubt, von Tengo schwanger zu sein. Er glaubt ihr, da er meint, sie über Fukaeri als Medium befruchtet haben zu können. Aomame berichtet, dass sie von Tengos Tätigkeit als Ghostwriter weiß und vom Buch, das er aktuell schreibt (er hat es mitgenommen). Aomames Plan ist, die Welt zu verlassen, indem sie die Nottreppe der Stadtautobahn hochsteigen – also genau anders herum wie Aomame in diese Welt gekommen ist.
+
+### 31. Tengo und Aomame – Wie eine Erbse in der Schote.
+
+Sie steigen die Treppe hinauf und gelangen tatsächlich zur Stadtautobahn, auf der zu dieser Zeit seltsamerweise ein Stau herrscht. Beide gucken zu Mond und stellen fest, dass es nur einer ist. Sie haben es also geschafft, 1Q84 zu verlassen. Aomame glaubt aber, dass ein Werbeschild, das schon das ganze Jahr dort hängt, anders aussieht. Vielleicht ist es nicht die Welt, aus der sie kommen, sondern eine andere, die auch nur einen Mond hat. Sie behält ihre Zweifel für sich. Ein Taxi nimmt sie auf, das leer auf der Autobahn steht. Der Fahrgast war anscheinend ausgestiegen, weil er im Stau eine Bekannte getroffen hat (diese Bekannte ist fuhr einen silbernen Mercedes – Aomame hatte so eine auch schon in ihrem Traum gesehen und außerdem, als sie auf der Autobahn kurz davor war, sich umzubringen).
+
+Sie nehmen sich ein Hotel und schlafen miteinander. Endlich fühlen sie sich nicht mehr alleine. Und als sie am nächsten Tag aus dem Fenster sehen, steht immer noch nur ein Mond am Himmel.
