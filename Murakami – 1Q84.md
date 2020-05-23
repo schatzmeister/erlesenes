@@ -369,3 +369,10 @@ Was Tengo Komatsu nicht mitteilt, ist dass sein neuer Roman in der Welt der Pupp
 Fukaeri kommt an einem Vormittag wieder aus dem Haus, diesmal mit einer vollbepackten Umhängetasche – sie geht, um nicht wiederzukommen. Erneut schaut sie in Ushikawas Objektiv, als wüsste sie, wer dort lauert. Dann geht sie. Ushikawa bleibt tief beeindruckt zurück. Er fühlt eine Art Verbundung und eine tiefe Zuneigung zu ihr. Etwas, das er in seiner Familie nie hatte. Er war eigentlich sogar froh gewesen, als seine Verbindungen zur Unterwelt ans Licht kamen und er seine Anwaltslizenz und seien Familie verlor.
 
 Tengo kommt vom Sanatorium zurück nach Hause. Als er ausgeht, folgt Ushikawa ihm. Tengo blickt sich zwar mehrfach um, aber bemerkt ihn nicht. Er muss draußen warten, während Tengo in einer Kneipe ist, und folgt ihm später zu einem Spielplatz, wo Tengo in den Himmel schaut. Aus seiner versteckten Position kann Ushikawa nicht festmachen, was genau er ansieht. Als Tengo also eine Weile später geht, nimmt Ushikawa dessen Position ein uns sieht gen Himmel. Was er erblickt, schockiert ihn: Zwei Monde. Er erinnert sich, dass zwei Monde auch in der Puppe aus Luft vorkamen.
+
+### 20. Aomame – Teil meiner Verwandlung
+
+Zum ersten Mal in ihrem Leben fühlt Aomame sich schön, wenn sie in den Spiegel sieht. Niemand hat ihr früher gesagt, sie sei schön. Auch ihre Brüste sind größer geworden, das, was sie immer an sich ändern wollte. Vermutlich liegt es an der Schwangerschaft.
+
+Aomame sieht Ushikawa auf der Rutsche sitzen und erkennt ihn sofort aus Tamarus Beschreibungen. Sie will ihn anrufen, aber entschließt sich dann, Ushikawa zu folgen. Sie geht ihm hinterher bis zum Haus, in dem er verschwindet und huscht hinterher. Am einen Briefkasten steht _Kawana_, Tengos Nachname. Nach einigem Hin und Her klingelt sie an dessen Tür, die Hand am Abzug ihrer Pistole. Niemand macht auf. Also geht sie zurück und ruft jetzt Tamaru an. Sie schildert ihm, wo Ushikawa wohnt und klärt ihn über die Zusammenhänge zu Tengo auf. Tamaru will sich etwas überlegen.
+
