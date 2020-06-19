@@ -1,2 +1,5 @@
 # Ignore folders with additional data
 **/
+
+# Some files should not be published (yet)
+*Notes*
