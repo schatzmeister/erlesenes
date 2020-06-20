@@ -39,15 +39,53 @@ Nachdem der Kongo unabhängig wurde, hob sich der Autokrat an die Macht, zuerst 
 
 Kim Jong-un erreichte viel in der kurzen Zeit seit seinem Amtsantritt. Gefährliche Personen wurden aus dem Weg geräumt, die Bevölkerung muss nicht mehr hungern und er ist auf gutem Wege, seine Atomwaffen auszubauen.
 
- ## 7. USA – Nordkorea
+ ## 8. USA – Nordkorea
 
 Margot Wallström, für Schweden im UN-Sicherheitsrat, will mit Kim ein ernstes Wort über seine Atomwaffentests reden.
 
 Torsten Lövenstierna, schwedischer Diplomat in Pjöngjang, lädt Kim ein, der jedoch nicht gerade erfreut ist und ablehnt.
 
-## 8. Indischer Ozean
+## 9. Indischer Ozean
 
 Allan stellt das Verhör auf den Kopf und behauptet, er sei zufällig einer der führenden Experten in der Atomtechnik – und lässt ein wenig ausgedachten Lingo fallen. Der Kapitän hat schon Angst, seinem Urantransport sei auf die Spuren gekommen worden.   Er ist hin- und hergerissen, ob er die beiden einfach über Bord werfen oder nach Korea bringen sollte.
 
 Allan und Julius bekommen ihren Champagner zurück und noch eine Flasche Rum dazu und etwas zu essen. Jetzt müssen sie sich überlegen, was der Lingo überhaupt bedeutet.
+
+## 10. Indischer Ozean
+
+Kim Jong-un ist erfreut darüber einen Schweizer (er wurde falsch informiert) Atomexperten zu erhalten. Außerdem nimmt er die Einladung zum Gespräch mit der schwedischen Außenministerin an.
+
+## 11. Tansania
+
+Der BND findet, mithilfe des CIA, heraus, dass sich vermutlich Uran auf dem Schiff befindet, das nach Nordkorea fährt.
+
+## 12. Nordkorea
+
+Kim ärgert sich über die Unfähigkeit seiner Wissenschaftler, Plutonium und angereichertes Uran herzustellen. Er will eine Wasserstoffbombe haben – nicht, um Südkorea und Japan zu bombardieren, aber um etwas in der Hand zu haben.
+
+## 13. Nordkorea
+
+Kim will den „Schweizer“ Allan eingehend untersuchen, bevor er ihm vertraut. Er schickt den Chef seines Atomprogramms, um Allan auszuhorchen. Der labert sich aus der Affaire, der eine Fakt, dass er die kritische Masse Uran kennt, die er aufgeschnappt hat, überzeugt den Chef und er schickt sie zum obersten Führer.
+
+Julius ist unglücklich mit seiner Situation, in der sein Leben vom Geschick und Glück Allans abhängt. Allan ist weiter unbekümmert.
+
+Kim eröffnet den beiden, Uran zu haben. Er will mit Allan zum KCNA und die Außenministerin treffen, während Julius ins Hotel gebracht wird.
+
+## 14. Nordkorea
+
+Kim bringt Allan und Wallström zur Nachrichtenagentur, KCNA, und stellt sie öffentlich vor, als Vertreter Schwedens und der Schweiz, die sich gegen die Amerikaner mit Nordkorea verbündet haben. Da Allan sich auf Schwedisch vorgestellt hat, können die beiden sich während der Fahrt ins Hotel unterhalten, während der Allan seine Geschichte erzählt. Derweil wartet Julius auf die Rückkehr Allans, er spricht Gustav auf die Mailbox und stellt dabei einige Fragen zum Spargel.
+
+## 15. Südkorea
+
+Julius Nachricht wird vom BND abgefangen, der sich wundert, was das alles zu bedeuten habe, und wofür Spargel ein Code sei.
+
+## 16. Nordkorea
+
+Wallström verspricht, Allan und Julius Diplomatenpässe zu besorgen. Beim Abendessen mit Kim führt Allan sich nicht gerade gut auf, aber sie erkaufen sich damit eine Woche, für die sie ein Labor gestellt bekommen – danach soll über ihr Schicksal entschieden werden. Wallström beauftragt die schwedische Passbehörde, die Pässe zu drucken.
+
+## 17. USA
+
+Trump ist gar nicht erfreut, als er die Nachrichten vom Schweizer und Wallström in Nordkorea mitbekommt. Er ruft sofort in der Schweiz an.
+
+## 18. Schweiz – USA
 
