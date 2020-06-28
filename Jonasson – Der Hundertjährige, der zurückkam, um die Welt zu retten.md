@@ -89,3 +89,61 @@ Trump ist gar nicht erfreut, als er die Nachrichten vom Schweizer und Wallström
 
 ## 18. Schweiz – USA
 
+Es gibt ein hitziges Gespräch zwischen Trump und der schweizer Bundespräsidentin Leuthard. Ein NSA-Agent im Ruhestand informiert Trump über die wirkliche Identität Allans.
+
+## 19. Nordkorea
+
+Wallström informiert die beiden über die Bestellung der Diplomatenpässe. Sie werden zum Labor gefahren, wo Allan sich durch viel Gelaber davor drückt, tatsächlich zu arbeiten. Danach werden sie zum Kaufhaus gefahren, wo Allan sich eine Aktentasche kauft, die genauso aussieht wie die, in der das Uran aufbewahrt wird. Julius kauft Aluklebeband. Zurück im Hotel wickelt Julius einen Karton in Aluklebeband ein, sodass er aussieht wie das bleiumhüllte Uran. Allan lernt chemische Formeln.
+
+## 20. Nordkorea
+
+Allan und Julius lassen sich von einer Hotelbedienung Müsli und Milch in einer Dose bringen. Im Labor entnerven sie den Ingenieur, der sie beaufsichtigt und tauschen die Aktentaschen aus. Dann machen sie sich aus dem Staub und jagen ihren Chauffeur aus dem Auto, indem sich Julius mit dem Müsli-Milch-Gemisch „übergibt“ und fahren zum Flughafen. Der Securitychef glaubt ihnen erst, dass sie Diplomaten sind, als Wallström sie erkennt. Die beiden können im schwedischen Flugzeug und mit dem Uran fliehen.
+
+Der Ingenieur und der Chauffeur begehen prompt Selbstmord, der Securitychef wird hingerichtet.
+
+## 21. USA
+
+Während des Fluges lässt Wallström wissen, Trump wolle Allan auch kennen lernen – er sei aber vermutlich nicht guter Stimmung. Sie kommen durch die Passkontrolle, ohne dass das Uran gefunden wird. Während Wallström und Allan sich im UNO-Hauptgebäude mit Trump treffen, warten Julius und das Uran draußen.
+
+## 22. USA
+
+Win vernünftiges Gespräch kommt noch zustande, aber Allan komplimentiert Trump zu seinen Haaren, woraufhin dieser ihn zum Golf einlädt und sie zusammen zum Platz fliegen. Trump versaut den ersten Schlag und wird wütend, Allan reibt noch etwas Salz in die Wunde, woraufhin Trump völlig ausrastet und Allan wegschickt.
+
+## 23. USA
+
+Vor dem UNO-Hauptquartier treffen Allan und Julius auf den deutschen Botschaft Breitner und lassen sich von ihm einladen. Sie erzählen ihm, sie hätten Atomraketenbaupläne aus Nordkorea mitgehen lassen und schieben Breitner so die Aktentasche mit dem Uran unter.
+
+## 24. USA – Schweden
+
+Trump lässt seinen Frust auf Twitter aus. Allan und Julius fliegen auf Kosten Schwedens nach Hause.
+
+## 25. Schweden
+
+Die beiden haben kein Geld mehr und müssen deswegen zur Spargel-Lagerhalle laufen, die zweieinhalb Stunden vom Flughafen entfernt ist. Dort will Julius seine Kontakte nutzen, um an Geld zu kommen.
+
+## 26. Indonesien
+
+Gustav Svensson muss jetzt alleine das Geschäft führen und beschließt, den Spargel als schwedisch zu deklarieren  – wogegen Julius sich stark ausgesprochen hatte, da es ihn schon einmal fast den Kopf gekostet hat.
+
+## 27. Schweden
+
+Die beiden kommen zu spät: Die Polizei hat bereits eine Razzia durchgeführt. Außerdem hat Julius eine schlimme Blase am Fuß. Sie wollen eine lokale Ladenbesitzerin überreden, ihnen Pflaster zu schenken, doch die lässt nicht locker. Schließlich kann Allan sie dann doch überreden, die beiden auf einen Kaffee einzuladen (und damit auch auf die Pflaster).
+
+## 28. Schweden
+
+Die Verkäuferin, Sabine, erzählt von ihrer Vergangenheit: Ihre Mutter war ein Medium (oder bildete sich das wegen zu viel LSD ein), und als sie tot war, eröffnete Sabine das Geschäft sowie das nebenan, welches Särge verkauft. Beide Geschäfte laufen sehr schlecht. Allan und Julius wollen gegen Kost und Logis ein paar Tage bei ihr arbeiten.
+
+## 29. Schweden
+
+Julius zimmert Särge und kann gut abkassieren. Tatsächlich kommen auch einige Kunden.
+
+## 30. USA
+
+Merkel hat erst ein anstrengendes Gespräch mit Trump und dann mit ihrem  Geheimdienstchef, der ihr vom Uran in der Aktentasche berichtet.
+
+## 31. Schweden
+
+Julius will das Sarggeschäft beleben, aber der Konkurrent in der Nähe hat unschlagbare Preise. Sabine und Julius kommen auf die Idee, Särge mit individuellen Motiven zu bemalen. Sie melden sich als Aussteller auf einer Reisemesse im Stuttgart an.
+
+## 32. Russland
+
