@@ -147,3 +147,36 @@ Julius will das Sarggeschäft beleben, aber der Konkurrent in der Nähe hat unsc
 
 ## 32. Russland
 
+Putin und sein bester Freund Aksakow unterhalten sich über den russischen Atomingenieur, den sie nach Nordkorea gebracht haben. Dieser schließt sich der Forderung Kims nämlich an, eine Plutoniumzentrifuge zu wollen. Die beiden beschließen, dass sie die Bitte endlich erfüllen wollen.
+
+## 33. Schweden – Deutschland
+
+Die drei – Allan, Julius und Sabine – fahren mit ihren spezielle bemalten Särgen nach Stuttgart. Auf dem Weg teilen sich Julius und Sabine ein Zimmer, sie hatten sich in den letzten Monaten ineinander verliebt.
+
+## 34. Deutschland
+
+Die Särge verkaufen sich wunderbar – vor allem die mit Fußballthema, die Fans anderer Vereine nutzen wollen, um den jeweiligen Verein zu verunglimpfen.
+
+## 35. Dänemark – Schweden
+
+Kenneth Engvall ist ein dänischer Neonazi, der jetzt in Schweden versucht, ein Schwesterprojekt der Aryan Brotherhood aufzubauen. Er will zusammen mit seinem Bruder Johnny das Kokaingeschäft in Stockholm von den Türken und Italienern übernehmen.
+
+## 36. Russland
+
+Aksakow trifft sich mit Engvalls, um ihnen Geld zu geben. Er will sie fördern, um die nordischen Länder vielleicht ein bisschen in die nationalistische Richtung zu treiben. Wenn man das Land mithilfe von Faschisten spalten kann, geht es vielleicht auch mit Ländern wie Deutschland. Bestenfalls zersetzt das langfristig die EU.
+
+## 37. Schweden
+
+Als Kenneth einen Bettler zusammenschlagen will, rutscht er aus, stürzt und stirbt daran. Johnny muss sich um seine Beerdigung kümmern. Zuvor war er schon bei der Beerdigung eines Bekannten, eines Drogenkuriers gewesen, der von einer Abhängigen erstochen wurde, und in einem Harley-Davidson-Sarg bestattet wurde. Johnny selbst hat auch einiges auf dem Kerbholz, zum Beispiel hat er einen Polizisten erschossen.
+
+## 38. Schweden
+
+Johnny bestellt einen Sarg bei Julius, mit Hakenkreuz und anderer Nazisymbolik. Julius nimmt den Auftrag an, denn Johnny bezahlt viel und ist angsteinflößend.
+
+## 39.  Schweden
+
+Julius und Sabine wollen zusammen essen gehen. Sie will nur schnell die aktuellen Särge ausliefern.
+
+## 40. Schweden
+
+ 
