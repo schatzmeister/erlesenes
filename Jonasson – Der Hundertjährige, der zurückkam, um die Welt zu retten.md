@@ -179,4 +179,40 @@ Julius und Sabine wollen zusammen essen gehen. Sie will nur schnell die aktuelle
 
 ## 40. Schweden
 
- 
+Auf der Beerdigung ist der falsche Sarg, mit Häschen und Wolken. Die Amerikaner sind überhaupt nicht erfreut, Johnny auch nicht.
+
+## 41. Schweden
+
+Johnny greift das Sarggeschäft mit einer Maschinenpistole an. Die drei können geradeso im Leichenwagen fliehen – Allan liegt im Sarg. 
+
+## 42. Schweden
+
+Johnny verfolgt die drei, aber verliert sie. Wegen des Anschlags mit dem Lastwagen in der Stockholmer Innenstadt werden die drei von der Polizei angehalten. Als Allan im Sarg gefunden wird, werden sie erst einmal auf die Wache gebracht, aber der Verbrennungsleiter Holmlund hat gerade Besseres zu tun und schickt sie somit weiter.
+
+## 43. Schweden
+
+In einer einfachen Pension angekommen, überlegen sie, wie sie an Geld kommen können. Julius schlägt vor, Sabine könne die Arbeit ihrer Mutter als Medium wieder aufgreifen.
+
+## 44. Schweden
+
+Johnny stellt Nachforschungen an und findet Infos über Sabine und Allan (den stellvertretenden Geschäftsführer des Sarggeschäftes).
+
+## 45. Russland
+
+Putin und Aksakow unterhalten sich: Trump zur Macht zu verhelfen hatte zwar die gewünschte Wirkung, dass die USA von innen zerbricht, aber jetzt gibt es Probleme zwischen Trump und Kim, die nicht geplant waren.
+
+## 46. Schweden
+
+Journalistin Bella Hansson ist auf der Suche nach einer Story und findet den Polizeibericht, dass ein Leichenwagen angehalten wurde. Das Gespräch mit Holmlund ist wenig aufschlussreich, aber sie hat eine Idee.
+
+## 47. Schweden
+
+Sabine recherchiert. Der Markt an Quacksalbern ist gesättigt, aber es gibt nicht so viele, die Kommunikation mit dem Jenseits anbieten, das könnte klappen.
+
+## 48. Schweden
+
+Hansson wettert in ihrem Artikel über die unfähige Polizei, die Leichenwagen anhält. Die Geschichte kommt auch in die größten Zeitungen, sodass der Ermittler, der den Überfall auf das Geschäft untersuchen soll, und Johnny darauf aufmerksam werden.
+
+## 49. Schweden
+
+
