@@ -215,4 +215,104 @@ Hansson wettert in ihrem Artikel über die unfähige Polizei, die Leichenwagen a
 
 ## 49. Schweden
 
+Sabine probiert ihre medialen Fähigkeiten mit dem verstorbenen Mann der Pensionswirtin aus. Dabei erleidet diese anscheinend einen Schlaganfall und stirbt. Sie beschließen in einer Krisensitzung, nach Malmö zu fahren.
+
+Später ruft die Wirtin bei der Polizei an. Sie sei nur in Ohnmacht gefallen, wolle sie aber jetzt wegen versuchten Mordes anzeigen. Johnny ruft ebenfalls an. Um es sich einfach zu machen, vermittelt Holmlund die beiden.
+
+## 50. Schweden
+
+Johnny kommt zur Wirtin und findet dort die Notizen der drei von ihrer Krisensitzung und weiß, dass sie nach Malmö fahren.
+
+## 51. Schweden
+
+In Malmö ist es etwas schwierig, eine Wohnung zu finden, aber als Diplomat und mit gutem Schauspiel bekommt Julius sie auch ohne Einkommen und früheren Wohnsitz.
+
+## 52. Schweden
+
+Inspektor Bäckman, der mit dem Fall im Sarggeschäft betraut ist, findet Julius Adresse heraus, dass er Diplomat ist, und ruft im Außenministerium an. Dort wird er zu Wallström durchgestellt, die sich von ihm die Adresse geben lässt und ihn dahin überzeugt, sich nicht mehr dankt zu beschäftigen.
+
+## 53. Schweden
+
+Die Séancen laufen in drei von vier Fällen gut. Im vierten stellt sich heraus, dass der Verstorbene noch lebt, weil er anruft.
+
+## 54. Schweden
+
+Johnny durchsucht Malmö nach dem Leichenwagen, findet aber nichts. Er kommt auf die Idee, Kontakt mit dem toten Kenneth aufzunehmen und sucht sich ausgerechnet Sabine heraus.
+
+## 55. Schweden
+
+Sabine führt ein Vorabgespräch mit Johnny und erfährt, wer er ist. Er will morgen kommen.
+
+## 56. Schweden
+
+Die drei bereiten sich vor. Der Leichenwagen wird etwas entfernt geparkt, Julius bekommt einen Baseballschläger, Allan eine Luftpistole, und es gibt Kaffee mit Schlafmittel. Als es klingelt, steht Wallström vor der Tür, direkt danach kommt auch Johnny.
+
+## 57. Schweden
+
+Wallström ist dienstlich in Malmö, weil die Grenzen zu Dänemark wieder geöffnet werden sollen. Für ihren Abstecher zu den dreien hat sie ihre Bodyguards jedoch weggeschickt.
+
+## 59. Schweden
+
+Johnny kommt das alles ein bisschen komisch vor und als Wallström Allan erwähnt, beginnt er zu begreifen. Sabine kann ihn jedoch ablenken und Wallström zieht ihm eine Lampe über den Kopf. Die vier besprechen, Wallström solle einfach gehen, damit es nicht ans Licht kommt, was passiert ist. Die anderen packen ihre Sachen und bugsieren Johnny – im Sarg und zusätzlich mit den Schlaftabletten betäubt – nach draußen.
+
+## 60. Schweden – Dänemark
+
+Sie fahren rüber nach Dänemark und Sabine hat eine Idee: Um Johnny loszuwerden mussten sie weg. Ihre Idee ist Daressalam, denn dort lebt der Hexenmeister Olekorinko, von dem Sabines Mutter geschwärmt hat.
+
+## 61. Russland
+
+Putin und Aksakow hatten viel Erfolg: mit dem Brexit und der Wahl Trump's, nicht so viel in den Niederlanden und Frankreich. Aber in Deutschland knabbern sie Merkel von links und rechts Macht ab. Mit dem Nazi in Schweden muss man sehen, was man anstellt.
+
+## 62. Dänemark
+
+Sabine hat recherchiert: Olekorinkos Prinzip ist, eine Zeltstadt zu unterhalten, wo er Wunderheilungen durchführt und die Leute ausnimmt. Das Prinzip könnte auch in Europa funktionieren.
+
+
+## 63. Schweden
+
+Johnny kommt wieder zu sich und erfährt aus den Nachrichten seines Smartphones, dass es einen Anschlag auf den Flughafen in Kopenhagen gab.
+
+## 64. Dänemark – Schweden – Deutschland
+
+Der Flughafen wurde gesperrt, weil Sabine entgegen aller Regeln geparkt hat, damit die drei noch ihren Flieger nach Daressalam bekommen. Ihr Flug ist der letzte, bevor der Flughafen gesperrt wird. Johnny fährt mit einem Taxi (und einer Pistole, mit der er den Fahrer bedroht) hinterher, denn in den Nachrichten wird der Leichenwagen erwähnt. Da der Flughafen abgesperrt wird, geraten sie jedoch in eine Polizeikontrolle, in der Johnny getötet wird, als er seine Waffe zieht.
+
+## 65. Deutschland
+
+Der BND hat Allan wiedergefunden, da die drei mir der Lufthansa fliegen, und Merkel wird sofort informiert, genauso die Agenten in Daressalam.
+
+## 66. Russland
+
+Aksakow und Putin erfahren, dass Johnny tot ist.
+
+## 67. Tansania
+
+Die drei kommen an und werden von den BND-Agenten beobachtet. Sie müssen einen weiteren Flug nehmen, um zum Ziel zu kommen.
+
+## 68. Kongo
+
+Die Uranlieferung an Nordkorea kommt aus einer „stillgelegten“ Mine, die die zur Überwachung abgestellten Amerikaner nutzen wollen, um reich zu werden. Es gibt jedoch einen Unfall in der Mine, sodass nur ein Teil des Urans da ist, das schnell weggeschafft werden muss.
+
+## 69. Tansania
+
+Es gibt nur noch einen Platz im Flugzeug nach Musoma, also fliegt nur die eine BND-Agentin mit. Ihr Chef hingegen will die Uranlieferung im Auge behalten. Sie sitzt direkt neben Allan im Flugzeug und findet das Ziel der drei heraus.
+
+In Musoma angekommen chartern die drei den einzigen Geländewagenfahrer weit und breit, die Agentin meldet dies ihrem Chef. Sie soll sich einen Wagen kaufen und hinterherfahren, während er an der Grenze zu Mosambik die Uranladung abfängt.
+
+Es gibt einen ewigen Stau, aber irgendwann schaffen sie es uns Lager. Mit ihrem Fahrer haben sie sich inzwischen angefreundet, er ist Massai. Sie wollen einen Tag bleiben und dann mit ihm in sein Ferienlager fahren, wo er neue Gäste erwartet.
+
+Es gibt ein großes Spektakel, bei dem ein Trank herumgegeben wird und Olekorinko Gebete singt. Danach hat Sabine eine Privataudienz. Dort erklärt er, die heilende Zutat sei Gottes Segen, es gebe keine geheimen Zusatzingredienzen. Dass Sabine angeblich eine Hexe ist, ist ein Problem, den Hexen seien des Teufels. Die Wächter des Priesters wollen schon auf Sabine losgehen, aber ihr Fahrer kann sie zurückhalten mit der Bemerkung, die Massai lägen mit Giftpfeilen auf der Lauer. Schnell fahren die vier weg, die Agentin hinterher.
+
+## 70. Tansania – Kenia
+
+Der Fahrer erklärt ihnen den Unterschied zwischen einer Hexe, die Böses tut und einer Mganga, die Gutes tut, und zwar im Namen Gottes. Die einen verbrennt man, die anderen ehrt man.
+
+Als sie an der Grenze nach Kenia ankommen, fährt die Agentin ihnen immer noch hinterher. Sie bemerken dies und halten an. Allan geht auf sie zu.
+
+## 71. Tansania – Kenia
+
+Die Agentin hat genug. Sie stellt sich vor als Friederike Langer und erklärt alles. Es wird beschlossen, dass sie mit den anderen mitkommen kann. Nach einiger Strecke bleibt ihr Wagen in einer Furt stecken, sodass sie das Auto zurücklassen müssen – es ist Nacht und wilde Tiere könnten angreifen.
+
+## 72. Kenia
+
+Am nächsten Morgen frühstücken Allan, Julius und Langer miteinander. Es stellt sich heraus, dass Langers Großvater ein großer Spargelbauer war – Julius und Langer kommen und Gespräch. Sabine überlegt, wie sie ihr Geschäft aufbauen kann. Langers Chef ruft an, um damit anzugeben, die Grenze nach Mosambik sei quasi dicht. Langer erklärt ihm, dass sie ihr Auto feststeckt und sie erst in einigen Tagen wird kommen können.
 
