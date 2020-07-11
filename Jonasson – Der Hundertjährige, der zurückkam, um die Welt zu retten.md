@@ -8,7 +8,7 @@ Ein Tablet hat länger Erfolg. Allan liest die Nachrichten. Während seines ganz
 
 ## 2. Indonesien
 
-Julius langweilt sich zu Tode. An einem Abend in der Bar trifft er auf den Inder Simran, der vor einem wütenden Vater geflohen ist und den Julius lieber Gustav nennt, und sie betrinken sich gemeinsam.
+Julius langweilt sich zu Tode. An einem Abend in der Bar trifft er auf den Inder Simran, der vor einem wütenden Vater geflohen ist und den Julius lieber Gustav Svensson nennt, und sie betrinken sich gemeinsam.
 
 Simran und Julius freunden sich an. Simran haut ab, ohne zu zahlen, aber Julius gibt ihm noch ein Handy mit, um Kontakt halten zu können.
 
@@ -39,7 +39,7 @@ Nachdem der Kongo unabhängig wurde, hob sich der Autokrat an die Macht, zuerst 
 
 Kim Jong-un erreichte viel in der kurzen Zeit seit seinem Amtsantritt. Gefährliche Personen wurden aus dem Weg geräumt, die Bevölkerung muss nicht mehr hungern und er ist auf gutem Wege, seine Atomwaffen auszubauen.
 
- ## 8. USA – Nordkorea
+## 8. USA – Nordkorea
 
 Margot Wallström, für Schweden im UN-Sicherheitsrat, will mit Kim ein ernstes Wort über seine Atomwaffentests reden.
 
@@ -251,68 +251,131 @@ Die drei bereiten sich vor. Der Leichenwagen wird etwas entfernt geparkt, Julius
 
 Wallström ist dienstlich in Malmö, weil die Grenzen zu Dänemark wieder geöffnet werden sollen. Für ihren Abstecher zu den dreien hat sie ihre Bodyguards jedoch weggeschickt.
 
-## 59. Schweden
+## 58. Schweden
 
 Johnny kommt das alles ein bisschen komisch vor und als Wallström Allan erwähnt, beginnt er zu begreifen. Sabine kann ihn jedoch ablenken und Wallström zieht ihm eine Lampe über den Kopf. Die vier besprechen, Wallström solle einfach gehen, damit es nicht ans Licht kommt, was passiert ist. Die anderen packen ihre Sachen und bugsieren Johnny – im Sarg und zusätzlich mit den Schlaftabletten betäubt – nach draußen.
 
-## 60. Schweden – Dänemark
+## 59. Schweden – Dänemark
 
 Sie fahren rüber nach Dänemark und Sabine hat eine Idee: Um Johnny loszuwerden mussten sie weg. Ihre Idee ist Daressalam, denn dort lebt der Hexenmeister Olekorinko, von dem Sabines Mutter geschwärmt hat.
 
-## 61. Russland
+## 60. Russland
 
 Putin und Aksakow hatten viel Erfolg: mit dem Brexit und der Wahl Trump's, nicht so viel in den Niederlanden und Frankreich. Aber in Deutschland knabbern sie Merkel von links und rechts Macht ab. Mit dem Nazi in Schweden muss man sehen, was man anstellt.
 
-## 62. Dänemark
+## 61. Dänemark
 
 Sabine hat recherchiert: Olekorinkos Prinzip ist, eine Zeltstadt zu unterhalten, wo er Wunderheilungen durchführt und die Leute ausnimmt. Das Prinzip könnte auch in Europa funktionieren.
 
 
-## 63. Schweden
+## 62. Schweden
 
 Johnny kommt wieder zu sich und erfährt aus den Nachrichten seines Smartphones, dass es einen Anschlag auf den Flughafen in Kopenhagen gab.
 
-## 64. Dänemark – Schweden – Deutschland
+## 63. Dänemark – Schweden – Deutschland
 
 Der Flughafen wurde gesperrt, weil Sabine entgegen aller Regeln geparkt hat, damit die drei noch ihren Flieger nach Daressalam bekommen. Ihr Flug ist der letzte, bevor der Flughafen gesperrt wird. Johnny fährt mit einem Taxi (und einer Pistole, mit der er den Fahrer bedroht) hinterher, denn in den Nachrichten wird der Leichenwagen erwähnt. Da der Flughafen abgesperrt wird, geraten sie jedoch in eine Polizeikontrolle, in der Johnny getötet wird, als er seine Waffe zieht.
 
-## 65. Deutschland
+## 64. Deutschland
 
 Der BND hat Allan wiedergefunden, da die drei mir der Lufthansa fliegen, und Merkel wird sofort informiert, genauso die Agenten in Daressalam.
 
-## 66. Russland
+## 65. Russland
 
 Aksakow und Putin erfahren, dass Johnny tot ist.
 
-## 67. Tansania
+## 66. Tansania
 
 Die drei kommen an und werden von den BND-Agenten beobachtet. Sie müssen einen weiteren Flug nehmen, um zum Ziel zu kommen.
 
-## 68. Kongo
+## 67. Kongo
 
 Die Uranlieferung an Nordkorea kommt aus einer „stillgelegten“ Mine, die die zur Überwachung abgestellten Amerikaner nutzen wollen, um reich zu werden. Es gibt jedoch einen Unfall in der Mine, sodass nur ein Teil des Urans da ist, das schnell weggeschafft werden muss.
 
-## 69. Tansania
+## 68. Tansania
 
 Es gibt nur noch einen Platz im Flugzeug nach Musoma, also fliegt nur die eine BND-Agentin mit. Ihr Chef hingegen will die Uranlieferung im Auge behalten. Sie sitzt direkt neben Allan im Flugzeug und findet das Ziel der drei heraus.
 
 In Musoma angekommen chartern die drei den einzigen Geländewagenfahrer weit und breit, die Agentin meldet dies ihrem Chef. Sie soll sich einen Wagen kaufen und hinterherfahren, während er an der Grenze zu Mosambik die Uranladung abfängt.
 
-Es gibt einen ewigen Stau, aber irgendwann schaffen sie es uns Lager. Mit ihrem Fahrer haben sie sich inzwischen angefreundet, er ist Massai. Sie wollen einen Tag bleiben und dann mit ihm in sein Ferienlager fahren, wo er neue Gäste erwartet.
+Es gibt einen ewigen Stau, aber irgendwann schaffen sie es uns Lager. Mit ihrem Fahrer haben sie sich inzwischen angefreundet, er ist Massai und heißt Meitkini. Sie wollen einen Tag bleiben und dann mit ihm in sein Ferienlager fahren, wo er neue Gäste erwartet.
 
 Es gibt ein großes Spektakel, bei dem ein Trank herumgegeben wird und Olekorinko Gebete singt. Danach hat Sabine eine Privataudienz. Dort erklärt er, die heilende Zutat sei Gottes Segen, es gebe keine geheimen Zusatzingredienzen. Dass Sabine angeblich eine Hexe ist, ist ein Problem, den Hexen seien des Teufels. Die Wächter des Priesters wollen schon auf Sabine losgehen, aber ihr Fahrer kann sie zurückhalten mit der Bemerkung, die Massai lägen mit Giftpfeilen auf der Lauer. Schnell fahren die vier weg, die Agentin hinterher.
 
-## 70. Tansania – Kenia
+## 69. Tansania – Kenia
 
-Der Fahrer erklärt ihnen den Unterschied zwischen einer Hexe, die Böses tut und einer Mganga, die Gutes tut, und zwar im Namen Gottes. Die einen verbrennt man, die anderen ehrt man.
+Meitkini erklärt ihnen den Unterschied zwischen einer Hexe, die Böses tut und einer Mganga, die Gutes tut, und zwar im Namen Gottes. Die einen verbrennt man, die anderen ehrt man.
 
 Als sie an der Grenze nach Kenia ankommen, fährt die Agentin ihnen immer noch hinterher. Sie bemerken dies und halten an. Allan geht auf sie zu.
 
-## 71. Tansania – Kenia
+## 70. Tansania – Kenia
 
 Die Agentin hat genug. Sie stellt sich vor als Friederike Langer und erklärt alles. Es wird beschlossen, dass sie mit den anderen mitkommen kann. Nach einiger Strecke bleibt ihr Wagen in einer Furt stecken, sodass sie das Auto zurücklassen müssen – es ist Nacht und wilde Tiere könnten angreifen.
 
-## 72. Kenia
+## 71. Kenia
 
 Am nächsten Morgen frühstücken Allan, Julius und Langer miteinander. Es stellt sich heraus, dass Langers Großvater ein großer Spargelbauer war – Julius und Langer kommen und Gespräch. Sabine überlegt, wie sie ihr Geschäft aufbauen kann. Langers Chef ruft an, um damit anzugeben, die Grenze nach Mosambik sei quasi dicht. Langer erklärt ihm, dass sie ihr Auto feststeckt und sie erst in einigen Tagen wird kommen können.
 
+## 72. Kenia
+
+Plan ist, Langers Auto zu bergen, sodass sie danach zu ihrem Chef fahren und die anderen auf Safari können. Das Auto ist jedoch nicht mehr da, also wollen sie vorerst zurück, und ihr Meitkini will sie später nach Musoma zurückbringen. Auf dem Weg nach Hause – es ist schon dunkel – kommen sie an einem Geländewagen vorbei, der liegengeblieben ist. Drin sitzt der Chef der Wachtruppe für die Uranmine im Kongo, der gerade das Uran zu einem kleinen Flughafen bringen will, von wo aus es abtransportiert werden soll. Da Allan seine Aktentasche als nordkoreanisches Fabrikat erkennt, wird er aber unruhig und zückt seine Pistole. Meitkini reagiert prompt und wirft ihm sein Wurfholz gegen die Stirn, was ihn sofort tötet.
+
+## 73. Kenia
+
+Der Chef der Wachtruppe hatte alles genau geplant: Um nicht wieder die gleiche Route wie beim letzten Mal zu nehmen, sollte diesmal die Ware an einen abgeschiedenen Flughafen in Kenia gebracht werden, das sie nach Madagaskar brächte, wo der Austausch mit den Koreanern stattfände.
+
+## 74. Kenia
+
+Einen Platten muss man erwarten, aber er kam für die Uranlieferer ungünstig, nämlich in der Nacht. Der Cousin des Chefs wurde aus dem Wagen geschickt, um den Reifen zu wechseln und war auch schon fast fertig, als die Löwen kamen und ihn mitnahmen.
+
+## 75. Kenia
+
+Meitkini organisiert ein Feuer, um die Tiere fernzuhalten und organisiert das Umladen des Urans in ihren Wagen. Als sie fertig sind, machen sie sich auf den Weg zurück ins Camp. Langer muss noch überlegen, was sie ihrem Chef sagt, und ruft ihn vorerst nicht an. Im Camp wollen sie gerade zusammen abendessen, da kommt ein Taxi angefahren. Drin sitzt Gustav Svensson.
+
+## 76. Indonesien
+
+Gustav hatte Probleme; er konnte seinen Spargel nicht mehr exportieren, da sein Kontakt in Schweden hops genommen wurde. Seine einzige Möglichkeit war, Julius zu finden – was sich schwierig gestalten könne, so wie er umherreiste. Aber dann erinnerte er sich, dass Allan ein Tablet hatte und dieses mit dem gleichen Account eingerichtet war wie Gustavs Smartphone, das er von Julius geschenkt bekommen hatte. Außerdem fand er die Suchfunktion für Geräte und konnte so ausfindig machen, wo Allan und damit Julius sich befand.
+
+## 77. Kenia – Deutschland
+
+Allan ruft Merkel auf ihrem geheimen Telefon an und berichtet vom Uranfund. Er möchte das Uran Deutschland übergeben und benötigt dazu ein Flugzeug und jemanden, der die Lieferung in Deutschland annimmt. Am nächsten Tag will er ihr seine genaue Position übermitteln, damit sie ihn und das Uran aufsammeln kann.
+
+## 78. Kenia
+
+Gustav, Julius und Langer unterhalten sich durchgehend über Spargel, während Sabine sich Sorgen um ihre Finanzen macht. Angeblich seien die Konditionen hier perfekt für Spargel, nur der Boden sei schlecht beschaffen. Kurzerhand bestellt Allan also vierhundert Tonnen gute Erde und die drei Spargelfanatiker sind Feuer und Flamme, nur Sabine nicht.
+
+## 79. Kenia – Madagaskar
+
+Langers Chef ruft an, um sich nach dem neuesten Stand zu erkundigen und sie berichtet ihm mit Genugtuung, sie habe das Uran und mit Merkel gesprochen, was ihn völlig auf die Palme bringt. Die Nummer hat sie aus der Einsatzakte, die sie für ihren Chef hat herumtragen müssen. Dann kündigt sie ihm an, sie habe gekündigt, und schmeißt das Handy in einen Bach.
+
+## 80. Kenia – Deutschland
+
+Im zweiten Gespräch zwischen Allan und Merkel gibt er ihr seine Position durch, Übergabe soll in drei Nächten sein. Weiterhin überredet Allan Merkel, die Kosten für die Erdlieferung zu übernehmen.
+
+## 81. Deutschland
+
+ Die Ladung kommt, am Tag der Bundestagswahl, unbehelligt in Deutschland an.
+
+## 82. Kenia
+
+Es stellt sich heraus, dass die Erde nur ein Zehntel dessen gekostet hat, was Allan angegeben hat, als auf einmal ein großer Batzen Geld bei ihnen auf dem Konto liegt.
+
+## 83. Schweden
+
+Wallström und Ministerpräsident Lövfen analysieren die Wahl und rufen außerdem Merkel an, um ihr zu gratulieren. Merkel ist gut gelaunt und beauftragt die beiden, Grüße an Allan auszurichten. Wallström ist irritiert.
+
+## 84. Madagaskar – Nordkorea – Australien – USA – Russland
+
+Als die Uranlieferung in Madagaskar nicht auftaucht und der Kurier untertaucht, ist Kim Jong-un sehr wütend. Dies ahnt auch der Kapitän des Schiffes, das das Uran transportieren soll und er flieht nach Australien, wo er alles berichtet. Davon erfährt Trump über die CIA und er will Allan festnehmen lassen. Der Chef der CIA unternimmt jedoch nichts. Aksakow ist auch wütend, weil Allan ihnen schon wieder eines ausgewischt hat, aber Putin nimmt es sportlich.
+
+## 85. Schweden – USA – Russland
+
+Wallström zieht Résumé: Das Jahr, das Schweden im UN-Sicherheitsrat war, hat leider nicht so viel gebracht.
+
+Die Washington Post veröffentlicht alle Lügen, die Trump in seinem ersten Jahr im Amt geäußert hat, es sind knapp fünf am Tag.    
+
+Putin und Aksakow sind zufrieden. Auch wenn sie es nicht geschafft haben, Europa groß zu schwächen, haben sie doch Trump installiert und den Brexit angestoßen.
+
+## 86. Kenia
+
+Der Spargel wird als „Friederike Lagars Spargel aus der Region“ in Deutschland verkauft – so wie zuvor der indonesischer Spargel als „Gustav Svenssons Spargel aus der Region“ in Schweden. Friederike und Meitkini werden ein Paar. Sabine kümmert sich um die Buchhaltung. Allan ist besorgt, weil er über die Nachrichten so viel Schlechtes mitbekommt; während es besser ist als viel früher, geht es doch aktuell wieder bergab.  
