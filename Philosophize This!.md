@@ -39,3 +39,9 @@
   * „Ich weiß, dass ich nicht weiß.“ Niemand weiß wirklich, aber viele glauben, sie wüssten.
   * „Das unbedachte Leben ist nicht wert, gelebt zu werden.“
 
+### 004: Plato
+
+* Schüler des Sokrates, hat zunächst dessen Werk verschriftlicht, dann eigene Ideen. Gründer der Akademie.
+* Ideenlehre: Alles, was es gibt, ist nur das unvollkommene Abbild der unendlichen, perfekten Idee seines selbst. Frage ist nur, wie man die Idee erkennen kann; dies geht, weil Menschen mit dem inhärenten Verständnis, das ihre Seele für Ideen hat, geboren werden, sie müssen sich nur daran erinnern.
+* Die Staatsutopie: Ein perfekter Staat hat drei Stände: Handwerker, Wächter, die aus den Handwerkern ausgesucht und besonders moralisch sind, und Philosophen, die aus den Wächtern ausgewählt werden, den Staat zu führen. Jeder soll nach seinen Fähigkeiten eingesetzt werden.
+
