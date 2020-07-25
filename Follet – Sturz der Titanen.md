@@ -36,7 +36,7 @@ Fitz hat das ganze Dorf nach Ty Gwin eingeladen, um die Gärten, die für den K�
 
 Fitz will mit seiner Frau Bea Sankt Petersburg, ihre Heimat, besuchen. Am Tag vorher wird er zu einem geheimen Treffen vom Secret Service eingeladen. In Russland soll Fitz sich über den aktuellen Stand der Technik in dem Land informieren und überprüfen, wie schnell es wohl im Kriegsfall seine riesige Armee mobilisieren könnte. Fitz ist geehrt.
 
-Grigori, 25, und sein Bruder Lew, 20, arbeiten in einer Eisenbahnfabrik und zeigen dem englischen Lord Fitz die Anlage. Für sie ist klar, dass er als Spion für England arbeitet. Als sie Bea erblicken, kommen schlechte Erinnerungen in ihnen hoch, die sie gerade so unterdrücken können. Grigori will nach Amerika auswandern und ist somit sehr froh, als er auf Gus Dewar trifft, der aus New York kommt, und ein paar Worte mit ihm wechseln kann.
+Grigori, 25, und sein Bruder Lew, 20, arbeiten in einer Eisenbahnfabrik und zeigen dem englischen Lord Fitz die Anlage. Für sie ist klar, dass er als Spion für England arbeitet. Als sie Bea erblicken, kommen schlechte Erinnerungen in ihnen hoch, die sie gerade so unterdrücken können. Grigori will nach Amerika auswandern und ist somit sehr froh, als er auf Gus Dewar trifft, der aus Buffalo kommt, und ein paar Worte mit ihm wechseln kann.
 
 Grigoris früheste Erinnerung ist von dem Tag, an dem der Zar in ihr Dorf kam. Viele Leute vergötterten den Zaren und waren sehr aufgeregt. Doch alles, was an dem Tag passierte, war, dass der Zar in einer großen Kutsche schnell durch den Ort fuhr, ohne dass Grigori ihn auch nur zu Gesicht bekam.
 
@@ -136,4 +136,34 @@ Walter gibt die Ergebnisse: dreißigtausend tote Russen, zweiundneunzigtausend G
 
 ### Kapitel 13: September bis Dezember 1914
 
-  
+Fitz wacht auf im Bett mit dem französischen Mädchen Gini. Er hat ein schlechtes Gewissen wegen Bea. Er bezahlt Gini, die beteuert, sie liebe ihn, und macht sich auf den Weg zum Hauptquartier der Briten in Paris. Auf dem Weg sieht er ein Plakat: Die Regierung habe Paris verlassen, aber Général Galliéni, der Militärgouverneur, verspreche, alles für die Verteidigung der Stadt zu tun.
+
+Der Kriegsminister Kitchener ist zu Besuch. Fitz hat seien Kontakte in London genutzt, ihn darauf hinzuweisen, dass die Briten sich einen faulen Lenz machen statt die Franzosen zu unterstützen. Fitz’ Vorgesetzter, der tyrannische Colonel Hervey, ist darüber gar nicht erfreut, allerdings weiß er nicht, dass Fitz sich an ihm vorbei beschwert hat.
+
+Fitz ist dafür zuständig, die britischen Aufklärungsberichte an die Franzosen weiterzugeben. Als er im Lagezentrum ankommt, ist viel Aufregung. Der Adjutant, Colonel Dupuys, empfängt Fitz. Der deutsche General Kluck habe nach Berichten seine Flanke offengelegt; Fitz kann dies bestätigen. Galliéni beschließt den Angriff. Doch Fitz ist betrübt, da die Briten sich immer noch zurückziehen. Mithilfe Ginis informiert er Général Lourceau; dieser soll diese Informationen Oberkommandanten Joffre weiterleiten. Tatsächlich kommt am nächsten Tag Joffre ins britische Hauptquartier und kann den britischen Heerführer John French überreden. Hervery merkt, dass Fitz dahinter steht und kündigt an, ihn von nun an auf dem Kieker zu haben.
+
+Die Briten rücken sehr zaghaft vor, aber sie zwingen die Deutschen zum Einlenken. Galliéni requiriert hunderte Taxis, um seine Soldaten an die Front zu transportieren. Der Plan gelingt, die Deutschen können von Paris zurückgedrängt werden. Schützengräben werden ausgehoben, der Stellungskrieg beginnt.
+
+Zu Weihnachten sollen alle britischen Soldaten Geschenke von Prinzessin Mary bekommen und Major Fitz (er wurde seit seinem Widersetzen gegen Hervey nicht mehr befördert) verteilt sie an sein Regiment in den Schützengräben. In der Ferne hört man die Deutschen Weihnachtslieder singen. Er wird angerufen: Bea hat einen Sohn geboren, zwei Wochen zu früh. Allerdings geht es beiden gut. Fitz nimmt dies zum Anlass, persönlich zur vordersten Linie zu gehen und seinen Männern die Geschenke vorbeizubringen. Doch dort ist niemand. Stattdessen sind deutsche und britische Soldaten im Niemandsland und unterhalten sich. Auch Walter, inzwischen Hauptmann, ist dort. Die beiden unterhalten sich freundlich miteinander und Walter erkundigt sich nach Maud und lässt ihr Grüße ausrichten.
+
+### Kapitel 14: Februar 1915
+
+Ethel und ihre Mieterin Mildred Perkins, eine hübsche, aber grobe junge Frau, arbeiten in einer Schneiderei um Uniformen herzustellen. Ethel wild Geld ansparen, weil sie in einigen Wochen, nach der Geburt ihres Kindes, nicht mehr arbeiten kann. Sie vertritt auch ihre Kolleginnen gegenüber ihrem Chef, als es darum geht, einen Erst-Hilfe-Kasten einzurichten; sie kommt sich ein wenig vor wie ihr Vater.
+
+Nach der Arbeit geht Ethel zu einem Treffen der Unabhängigen Arbeiterpartei, der sie angehört. Dort soll eine Suffragette eine Rede halten. Diese fällt aus, aber anscheinend gibt es Ersatz: Maud. Nachdem Maud fertig ist, reden Ethel und sie noch miteinander. Ethel hat inzwischen eine komplette Geschichte zu ihrem Kind ausgedacht: Ihr Mann, den sie Teddy Williams nennt, hat sich sehr früh im Krieg freiwillig gemeldet und ist inzwischen gefallen. Ethel trägt auch einen Ring. Maud berichtet, was sie von Walter gehört hat und die Neuigkeiten von Fitz’ Jungen. Ethel schreibt Billy einen Brief, in dem sie von ihrem schweren Leben berichtet.
+
+Bea hat eingerichtet, dass alle zwei Wochen ein orthodoxer Priester nach Aberowen kommt und für die Russen eine Messe hält; danach gibt es Essen auf Ty Gwin. Lew hasst die Kirche zwar, aber er kann die freie Mahlzeit nicht ausschlagen. Diesmal ist auch Spirja dabei, der anscheinend einen Wandel durchgemacht hat. Er nimmt Lew das Versprechen ab, nicht mehr beim Kartenspiel zu betrügen – sonst werde er den Betrogenen das mitteilen. Lew hat allerdings inzwischen fast sein gesamtes Geld für die Überfahrt nach Amerika zusammen, und so macht er noch ein letztes Spiel – diesmal ist sein Komplize Price – und hat genügend Geld zusammen. Allerdings taucht Spirja in der Bar auf, also macht Lew sich schleunigst aus dem Staub. Er begegnet Billy, der für einen Zug nach London zum Bahnhof geht und entschließt, den gleichen Zug bis nach Cardiff zu nehmen. Die Leute, die er ausgenommen hat, sind ihm aber dicht auf, nur im letzten Moment kann er, mit Billys Hilfe, noch auf den Zug aufspringen.
+
+Billy macht fragt sich durch, bis er mit Mühe zu Ethels Fabrik kommt. Ethel ist nicht dort, aber er kann Milded überreden, ihm den Weg zu ihrem Haus zu beschreiben. Dort angekommen hört er sie schreien. Er bricht die Haustür auf und stürmt hinein. Sie liegt in den Wehen. Kurz darauf bringt sie einen Sohn zur Welt. Billy fragt sie, wer der Vater sei und ihr rutscht Fitz’ Name heraus. Billy ist entsetzt.
+
+### Kapitel 15: Juni bis September 1915
+
+Lew findet in Amerika, genauer in Buffalo, Arbeit als Stalljunge bei dem russischen Unternehmer und Mobster Joseph Vyalov. Doch weil er in einer seiner Kneipen gestohlene Zigaretten verkauft, wird er zu Vyalov gebracht. Da er aber keine Angst zeigt, ist Vyalov beeindruckt und stellt ihn als seinen Chauffeur ein.
+
+Bei einem deutschen Ubootangriff auf ein britisches Schiff sterben Amerikaner, was Präsident Woodrow zu einer harschen Note verleitet. Gus hat Angst, das könnte dazu führen, dass die USA in den Krieg eintreten, ist aber vorerst auf Urlaub in seiner Heimatstadt. Gus geht zu einer Ausstellung, wo er auf die hübsche Olga trifft, Vyalovy Tochter, und sich prompt in sie verliebt. Sie lädt ihn zu einem Tennisturnier ein. Außerdem trifft er eine alte Schulbekanntschaft, Rosa Hellman, die als Journalistin arbeitet und sich gut gegen ihre männliche Konkurrenz durchsetzen kann.
+
+Olga schleicht sich oft in die Garage zu Lew, um heimlich zu rauchen und zu plaudern. Während des Turniers bewahrt Lew Olga viel Stress, als er ihre Zigarette nimmt, als ihr Vater auftaucht. Später am Tag kommt sie wieder zu Lew in die Garage. Sie erzählt, sie werde vermutlich Gus heiraten, um damit ihrem Vater zu gefallen. Lew küsst Olga, eines kommt zum nächsten und er entjungfert sie. Danach schlafen die beiden noch öfter miteinander.
+
+Gus muss zurück nach Washington, aber vorher verloben Olga und er sich und Gus erhält die Vyalov die Erlaubnis seine Tochter zu heiraten. Auf dem Bahnhof trifft er auf Rosa, die gerade von einem Vorstellungsgespräch einer washingtoner Zeitung kommt – sie würden einander nun öfter treffen. Er berichtet ihr von seiner Verlobung, worauf sie gar nicht gut zu sprechen ist und verschwindet.
+
+Lew wird zu Vyalov gebracht. Dieser peitscht ihn aus, der Grund: Olga ist schwanger. Vyalov muss nun die Hochzeit mit Gus platzen lassen, stattdessen soll Lew Olga heiraten.
