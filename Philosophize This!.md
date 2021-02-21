@@ -45,3 +45,19 @@
 * Ideenlehre: Alles, was es gibt, ist nur das unvollkommene Abbild der unendlichen, perfekten Idee seines selbst. Frage ist nur, wie man die Idee erkennen kann; dies geht, weil Menschen mit dem inhärenten Verständnis, das ihre Seele für Ideen hat, geboren werden, sie müssen sich nur daran erinnern.
 * Die Staatsutopie: Ein perfekter Staat hat drei Stände: Handwerker, Wächter, die aus den Handwerkern ausgesucht und besonders moralisch sind, und Philosophen, die aus den Wächtern ausgewählt werden, den Staat zu führen. Jeder soll nach seinen Fähigkeiten eingesetzt werden.
 
+### 005: Aristotle Part 1
+
+* Schüler Platons, Gründer des Lykeions.
+* Alle Menschen, egal welchen Lebensentwurf sie verfolgen, haben als höchstes Ziel ein gutes Leben.
+* Was man tut, um es zu erreichen, teilt sich in _natürliche_ und _angeeignete_ Bedürfnisse auf; die natürlichen teilen wir mir Tieren und sind die, die unser Überleben sichern, die angeeigneten sind die, die wir benötigen, um ein gutes Leben zu führen.
+* Wir müssen unterscheiden, ob etwas wirklich zu einem guten Leben führt, oder ob wir es nur glauben. Es gibt universelle „echte“ Güter. Problem: Nicht jeder hat den gleichen Zugang zu ihnen, sondern es ist auch eine Frage des Glücks.
+* Wir sollten tun, was immer wir können, um das beste aus unserem Glück herauszuholen, wenn wir es einmal haben, und am glimpflichsten aus Pech herauszukommen. Dazu müssen wir uns Gewohnheiten setzen. Motto: „Du bist, was Du gewohnheitsmäßig machst.“
+
+### 006: Aristotle Part 2
+
+* Erfinder von Logik, naturwissenschaftlicher Methode und Weiterem.
+* Wir können Dinge nur über Erfahrung verstehen. Was wir unter einem Begriff verstehen, ergibt sich aus der Summe der Erfahrungen mit diesem Begriff. Menschen haben kein inhärentes Wissen (anders als Platon sagt).
+* Eine Methode der Erkenntnis ist die Kategorisierung; auf diese Weise kann man vor allem feststellen, dass etwas nicht Teil einer Kategorie ist (Beispiel: Alle Vögel haben Flügel. Dies hat keine Flügel. Also ist es kein Vogel).
+
+* Es gibt _vier Ursachen_ für das Sein eines Dings: materiell (woraus besteht es? Diese Frage hat schon die Vorsokratiker beschäftigt), formal (wie ist es angeordnet? Die Frage, die für Platonisten entscheidend ist), effizient (wie ist es entstanden?) und final (was ist sein Zweck, seine Teleologie?). Ein Ding kann nur verstanden werden, indem alle vier Ursachen untersucht werden.
+* Es gibt einen Unterschied zwischen dem Wissen eines Faktes und dem begründeten Wissen. Das erste kann durch Wahrnehmung erfahren werden, das zweite durch Verstand. Induktion und Deduktion arbeiten zusammen.
