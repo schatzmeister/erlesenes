@@ -61,3 +61,23 @@
 
 * Es gibt _vier Ursachen_ für das Sein eines Dings: materiell (woraus besteht es? Diese Frage hat schon die Vorsokratiker beschäftigt), formal (wie ist es angeordnet? Die Frage, die für Platonisten entscheidend ist), effizient (wie ist es entstanden?) und final (was ist sein Zweck, seine Teleologie?). Ein Ding kann nur verstanden werden, indem alle vier Ursachen untersucht werden.
 * Es gibt einen Unterschied zwischen dem Wissen eines Faktes und dem begründeten Wissen. Das erste kann durch Wahrnehmung erfahren werden, das zweite durch Verstand. Induktion und Deduktion arbeiten zusammen.
+
+### 007: Daoism
+
+* Bekannteste Vertreter: Laozi (Existenz nicht völlig gesichert, Zeitgenosse des Konfizius) und Zhuangzi.
+* Philosophie, die religiöse Züge angenommen hat.
+* Zivilisation verdirbt den Menschen, der Dao ist der Weg, den die Natur geht (*Dao: Weg, Pfad*).
+* Ein Weg ist auch die Asenz von Anderem (wie Hindernissen), der Begriff enthält Ambiguität
+* Dao gebiert Yin und Yang; diese gebieren alle Dinge. Dao hält Yin und Yang in Gleichgewicht. Vergleiche Heraklit – Gegensätze ergänzen einander zum Einen.
+* „Das Dao, da serzählt werden kann, ist nicht das ewige Dao.“
+* Zentrales Konzept: Wu wei, Handeln durch nicht-Handeln.
+* Zhuangzi: Nach Wissen sollte man nicht streben, wenn man es nicht erlangen kann; man sollte keine unbeantwortbaren Fragen stellen.
+* Ordnung entsteht spontan aus dem Chaos; ein Staat und Kontrolle versuchen, Ordnung zu erzwingen.
+
+### 008: Konfuzius
+
+* Der Vater stirbt, als Konfuzius drei ist und er und seine Mutter werden aus de rFamilie verstoßen; die Mutter stirbt ebenfalls früh. Obwohl er aus armem Hause stammt, wird er Verwalter beim lokalen Herrscher und erlangt viel Einfluss, bis er abgesägt wird.
+* Er reist umher, um alle, die tüchtig sind (unabhängig von ihrem Stand), zu *Junzi* zu erziehen, ehrenhaften Männern, die bereit sind Politiker zu werden.
+* Lernen und Wissen kann Klassen überwinden.
+* Zwei Teile der Philosophie: Li (wie regiert man?) und Jin (wie „regiert“ man sich selbst?). Ein guter Politiker ist nichts weiter als ein gutes Vorbild. Gutes Handeln durch Angst zu erzwingen, hat keinen Wert, gutes Handeln kommt aus dem Menschen selbst.
+* Die einzige Pflicht eines Menschen ist, ein moralisches Leben zu führen. Ein Junzi folgt vier Prinuipien: Loyalität (seinen Platz kennen und entsprechend handeln), Ahnenverehrung, rituellem Anstand (die Rituale, gesellschaftliche und religiöse befolgen) und Reziprozität (keine Regeln an andere anlegen, die man nicht auch an sich selbst anlegt).
