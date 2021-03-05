@@ -81,3 +81,54 @@
 * Lernen und Wissen kann Klassen überwinden.
 * Zwei Teile der Philosophie: Li (wie regiert man?) und Jin (wie „regiert“ man sich selbst?). Ein guter Politiker ist nichts weiter als ein gutes Vorbild. Gutes Handeln durch Angst zu erzwingen, hat keinen Wert, gutes Handeln kommt aus dem Menschen selbst.
 * Die einzige Pflicht eines Menschen ist, ein moralisches Leben zu führen. Ein Junzi folgt vier Prinuipien: Loyalität (seinen Platz kennen und entsprechend handeln), Ahnenverehrung, rituellem Anstand (die Rituale, gesellschaftliche und religiöse befolgen) und Reziprozität (keine Regeln an andere anlegen, die man nicht auch an sich selbst anlegt).
+
+### 008: The Buddha
+
+* Siddhartha Gautama wir als Kind eine Königs in Reichtum geboren. Der Vater behütet ihn und schirmt ihn von der Welt ab. Auf einem Ausflug sieht er (der Sage nach) mit neunundzwanzig zum ersten Mal Alte, Kranke und Tote. Er bemerkt, dass das Leben voller Leid ist. Er sieht auch einen Asketen. Das lässt ihn ausziehen und selbst für sechs Jahre Asket werden.
+* Leitfrage: Wie kann man das Leid beenden?
+* Leben im Reichtum macht nicht glücklich, Leben als Asket auch nicht. Man muss einen „mittleren Weg“ gehen.
+* Er schwört, unter einem Feigenbaum sitzend, er werde nicht gehen, bevor er erleuchtet ist. Und es gelingt, er transzendiert.
+* Es gibt vier *noble Wahrheiten*:
+    * Leid ist universell, es ist der Default-Zustand, Stichwort: euphemistische Tretmühle
+    * Ursache des Leids ist Verlangen, genauer: Attachment (unnötige Wünsche), Aversion (unnötiger Hass) und Ignoranz (Dinge sind nicht inhärent gut oder schlecht)
+    * Leid kann beendet werden, indem Verlangen überwunden wird. Dies geschieht, indem man sein Ego ablegt, das *Nirvana* („ausgeblasen“) erreicht
+    * Es gibt acht Handlungen, um das Nirvana zu erreichen, den mittleren Pfad.
+* Nach seiner Erleuchtung gründet er ein Kloster, wo er bis zu seinem Tod lehrt.
+
+### 010: The Hellenistic Age Part 1
+
+* Nach dem Tode Alexanders des Großen herrschen Tumulte und Philosophie verlagert sich auf praktische Probleme.
+* Es entstehen vier Schulen; heute: Epikur
+* Epikur wird in eine arme Familie geboren. Er lässt sich von Demokrit inspirieren, ist Atomist, lehnt aber Determinismus ab.
+* Er gründet mehrere Schulen an verschiedenen Orten, bis er in Athen den *Garten* gründet, welcher auch Frauen und Sklaven aufnimmt.
+* Sinnliche Erfahrungen, Vorstellungen und Gefühle führen zu Erkenntnis.
+* Wir können unseren Sinnen im Wesentlichen vertrauen, aber unser Geist interpretiert unsere Wahrnehmungen oft falsch.
+* Es gibt zwei Arten der Lust: kinetische, die wieder geht, und statische, die bleibt. *Ataraxia, Seelenruhe,* ist eine statische Lust, die das höchste Ziel ist. Es geht dabei darum, kein Leid haben, ohne es zu übertreiben. Wünsche, deren Erfüllung das Leid nicht verringern, sind nicht wert, ihnen nachzugehen.
+* Da wir nach dem Tode nicht mehr existieren, gibt es nichts Schlechtes daran.
+* Philosophie ist eine Medizin für den ängstlichen Geist. Es gibt vier Dinge zu verstehen:
+    * Es braucht keine Angst vor Gott
+    * Es gibt keine Sorgen im Tode
+    * Gutes kann leicht erreicht werden
+    * Schlechtes kann man aushalten (denn es ist endlich)
+* Freundschaft ist eine der besten Möglichkeiten, Glückseligkeit zu erreichen. Sie können uns dabei helfen, kinetische und statische Lust zu unterscheiden.
+
+### 011: The Hellenistic Age Part 2
+
+* Heute: Stoizismus, Teile Logik und Physik. Nächstes Mal stoische Ethik.
+* Ähnliches Ziel wie die Epikureer: Seelenruhe. Aber Epikureer über Lust, Stoiker über Akzeptanz des Schicksals und Tugend.
+* Gründer: Zeno; Ein Orakel sagt ihm, er finde ein gutes Leben, wenn er die Charakteristiken der Toten annehme. Er überlebt später einen Schiffbruch und beginnt in Athen zu studieren. Er ist so von Sokrates fasziniert, dass er beim Kyniker Krates lernen will und trifft auch auf Diogenes von Sinope.
+* Kyniker wollen Seelenruhe erreichen, indem man sich von sozialen Zwängen befreit, sondern im Einklang mit der Natur leben.
+* Zeno konnte sich nicht ganz mit der Extreme der Kyniker anfreunden. Ihm gefällt die Naturverbundenheit und Sorglosigkeit, aber er braucht Gründe dafür, dass das okay ist, ergo Physik und Metaphysik.
+* Tugend ist das Leben im Einklang mit dem Logos, dem pantheistischen Gott.
+* Es gibt nur ein Richtiges, und Logos handelt immer richtig. Da er alles lenkt, ist das Schicksal, entsprechend zu handeln. Menschen haben einen Funken Logos in sich und können so ihre Schicksal erkennen.
+* Logik ist die Wissenschaft, den Logos zu verstehen und sein Schicksal zu erkennen und enthält auch Epistemologie, Grammatik und Rhetorik.
+
+### 012: The Hellenistic Age Part 3
+
+* Heute: stoische Ethik von Seneca (Politiker und Lehrer Neros), Epictetus (einem Sklaven und Krüppel) und Mark Aurel (römischer Kaiser).
+* *Oikiosis*: Anlage, die jedem Ding und Wesen natürlicherweise eingepflanzt ist.
+* Alles kann eingeordnet werden in Dinge, die wir kontrollieren können (nämlich Gedanken und Handlungen), und Dinge, die wir nicht kontrollieren können (*Indifferenten*).
+* Ziel ist, sich nicht von Indifferenten unglücklich machen zu lassen. Es ist aber schwierig, zu erkennen, was Indifferente sind. Wer das kann, erreicht *Apathia*.
+* Erwarte nichts Gutes, dann werden die Erwartungen nicht enttäuscht. Urteile nicht über Dinge, die sich nicht ändern lassen, … Ob etwas gut oder schlecht ist, liegt nicht am Ding selbst, sondern an unserer Interpretation.
+* Es gibt ein Schicksal, alles ist determiniert. Aber es gibt auch freien Willen, im Sinne der Akzeptanz des Schicksals. (Stichwort: Kompatibilismus)
+* Epictetus: Fordere nicht, dass Dinge sich verhalten, wie Du wünschst, sondern wünsche, dass Dinge sich verhalten, wie sie es tun.
