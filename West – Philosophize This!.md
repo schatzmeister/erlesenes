@@ -132,3 +132,55 @@
 * Erwarte nichts Gutes, dann werden die Erwartungen nicht enttäuscht. Urteile nicht über Dinge, die sich nicht ändern lassen, … Ob etwas gut oder schlecht ist, liegt nicht am Ding selbst, sondern an unserer Interpretation.
 * Es gibt ein Schicksal, alles ist determiniert. Aber es gibt auch freien Willen, im Sinne der Akzeptanz des Schicksals. (Stichwort: Kompatibilismus)
 * Epictetus: Fordere nicht, dass Dinge sich verhalten, wie Du wünschst, sondern wünsche, dass Dinge sich verhalten, wie sie es tun.
+
+### Episode 013: The Hellenistic Age Part 4
+
+* Recap: Wie erreicht man Seelenruhe? Epikur – lebe angenehm, Kyniker – lebe natürlich, Stoa – ergib Dich in Dein Schicksal.
+* Heute: Skeptizismus; erster und wichtigster Vertreter ist Pyrrhon.
+* Stoische Epistemologie: Wissen entsteht in einem Dreischritt: Wahrnehmung, Bündelung von Wahrnehmungen zu einer Überzeugung, und Wissen, sobald die Evidenz überwältigend ist.
+* Skeptiker: Man hat niemals ausreichend Evidenz.
+* Wir können nie wissen, ob etwas wirklich gut oder schlecht ist. Deswegen müssen wir unsere Urteile hinauszögern. Solange wir keine Urteile fällen, ärgern wir uns nicht über können Seelenruhe erreichen.
+* Arkesilaos (Rektor der Akademie): Auch wenn wir nichts sicher wissen können, sollten wir entsprechend dessen handeln, was wahr zu sein scheint.
+* Folge: konkurrierende Schulen, wie strikt man Skeptizismus betreiben sollte.
+
+### The Hellenistic Age Part 5
+
+* Heute: Ende der hellenistischen Zeit. Nachdem die Dogmatiker des Platonismus während des Hellenismus von den vier Schulen abgelöst wurde, kam zur ausgehenden Antike Neoplatonismus durch Plotin auf. Aber erst einmal: Mittelplatonismus.
+* Es gibt drei vorherrschende Religionen, Judentum, Paganismus und Christentum, und verschiedene Philosophen versuchen ihre Religion mit Platon zu verknüpfen:
+* Philo von Alexandria ist Jude und Platoniker; sein größtes Vorbild ist Moses. Er sieht Platon als Nachfolger Moses und den Pentateuch als Mose philosophisches Werk an. Er versucht, die Bücher Mose und Platonismus zu vereinen. Gott ist ein Demiurg, die Welt der Ideen ist im Geiste Gottes und Tugend ist Gottesfurcht.
+* Plutarch ist Priester für Apollo und Gesandter seiner Heimatstadt. Es gibt zwei Arten der Seele: Die irrationale, die nicht erschaffen wurde, und die rationale, die vom Demiurgen aus der irrationalen geformt wurde. Hauptwerk: *Wie unterscheidet man einen Freund von einem Schmeichler?* Freunde sind sehr wichtig für Plutarch, sie liefern ehrliche, objektive Urteile und Handeln im Interesse ihre Freundes wohingegen Schmeichler nur so tun, um einen Vorteil für sich herauszuschlagen.
+* Aristotelismus wird mit Christentum vereint. Mehr dazu bei den Philosophen des Mittelalters.
+
+### 015: A Period of Transition – Plotinus
+
+* Plotin wird in der *Krise des dritten Jahrhunderts* geboren; Es herrschen Krieg und Seuchen.
+* Heute: Untersuchung Plotins anhand der Theodizee-Frage.
+* Menschen haben Angst vor Irreversibilität (vor allem Tod). Religion und Philosophie sollen und dabei helfen. Religion, indem sie uns glauben lässt, es gäbe Irreversibilität nicht, Philosophie, indem sie uns die Angst davor nimmt.
+* Das Christentum wird populär, in dem die Seele als von einer anderen Welt kommend aufgefasst wird, die zeitlebens in unserer Welt gefangen ist.
+* Platin: Es gibt nichts Böses, es gibt nur Abwesenheit von Gutem.
+* Alles Seiende hat eine Qualität von Einheit; nimmt man die Einheit, hört es auf zu sein. Es gibt künstliche Einheit (wie die Teile einer Uhr) und natürliche Einheit (wie ein Lebewesen). Je mehr Einheit etwas hat, desto realer ist es.
+* Kette des Seins: Drei Schichten, zuerst das Eine/Gott/etwas, über das man nicht sprechen kann, das über dem Sein steht, gewissermaßen die Idee einer Idee; dann der Intellekt, die Welt der Ideen, wobei die Ideen perfekte Einheiten sind und somit realer als alles andere; zuletzt die Seele, die der „Anker“ zur physischen Welt ist.
+* Daher kommt die Absens von Gutem, weil die physische Welt nur ein imperfektes Abbild des Einen und perfekt Guten ist.
+
+### 016: Saint Augustine
+
+* Augustinus ist Sohn der heiligen Monika. Er ist ein großer Skeptiker des Christentums, er wird Manichäist, aber wird auch dazu skeptisch.
+* In einem Gespräch erhitzt er sich und geht hinaus, um sein Gemüt abzukühlen. Dies klappt nicht, sondern er wird immer frustrierter. Dann hört er ein Kind, das jemanden dazu auffordert, zu lesen – das sieht er aus göttliche Weisung. Er liest die Bibel und wird Christ.
+* Gott gab uns freien Willen; durch falsche Handlungen kommt Böses in die Welt, es kommt nicht von Gott.
+* Gott hat die Zeit erschaffen und ist nicht von ihr beeinflusst. Tatsächlich gibt es Zeit gar nicht, sondern ist mir eine Illusion, die Menschen nutzen, um ihre Gedanken zu ordnen; das einzige, was es gibt, ist das Jetzt, und die Vorstellungen von Vergangenheit und Zukunft.
+
+### 017: Boethius
+
+* Boethius ist ein Neoplatonist aus einer treiben Familie, der Theoderich, dem Eroberer Roms, dient. Als er einen angeblichen Verräter verteidigt, wird es kurzerhand auch verurteilt. In der Gefangenschaft vor seiner Hinrichtung verfasst er sein Werk.
+* Er erzählt eine Geschichte, in der er eine Vision von der Allegorie der Philosophie hat, die ihn unterrichtet.
+* Gott weiß alles, aber es gibt dennoch freien Willen, Gott kontrolliert nicht unsere Handlungen, er kennt sie nur.
+* Wir sollten nicht glauben, wir hätten ein Anrecht auf Glück, da es uns nicht gehört. Sei also nicht traurig über das, was Du verloren hast. Tugend ist das einzige, das man tatsächlich hat.
+
+### 018: Avicenna
+
+* Ibn Sina wird 980 zur goldenen Zeit des Islam im heutigen Usbekistan geboren. Sein größter Einfluss ist Aristoteles; er versucht, Aristoteles mit dem Islam in Einklang zu bringen, er will ihn „heilen“.
+* Gegenstände bestehen nach Atistoteles aus Material und Form, analog besteht ein Mensch aus dem Körper und der rationalen Seele, Körper und Seele sind also untrennbar vereint. Ibn Sina stimmt dem nicht zu.
+* Gedankenexperiment: Der schwebende Mann. Man stelle sich vor, man schwebe im leeren Raum mit nichts, das man wahrnehmen könne; nicht einmal seinen eigenen Körper. Man existiere dennoch, da man sich selbst wahrnehme. Selbstbewusstsein impliziert Existenz. „Ich denke, also ist existiert mein Geist unabhängig von meinem Körper.“
+* Dieses Gedankenexperiment schafft es zwar, Leib und Seele zu trennen, wie es im Islam ist, aber macht die Auferstehung des Körpers unnötig, da die Seele auch ohne existieren könne, was islamischem Dogma widerspricht.
+
+
