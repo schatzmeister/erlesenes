@@ -178,9 +178,80 @@
 
 ### 018: Avicenna
 
-* Ibn Sina wird 980 zur goldenen Zeit des Islam im heutigen Usbekistan geboren. Sein größter Einfluss ist Aristoteles; er versucht, Aristoteles mit dem Islam in Einklang zu bringen, er will ihn „heilen“.
+* Ibn Sina wird 980 zur goldenen Zeit des Islam im heutigen Usbekistan geboren. Er ist so bedeutend, dass das goldene Zeitalter in eine Zeit vor und eine nach ihm eingeteilt wird. Sein größter Einfluss ist Aristoteles; er versucht, Aristoteles mit dem Islam in Einklang zu bringen, er will ihn „heilen“.
 * Gegenstände bestehen nach Atistoteles aus Material und Form, analog besteht ein Mensch aus dem Körper und der rationalen Seele, Körper und Seele sind also untrennbar vereint. Ibn Sina stimmt dem nicht zu.
 * Gedankenexperiment: Der schwebende Mann. Man stelle sich vor, man schwebe im leeren Raum mit nichts, das man wahrnehmen könne; nicht einmal seinen eigenen Körper. Man existiere dennoch, da man sich selbst wahrnehme. Selbstbewusstsein impliziert Existenz. „Ich denke, also ist existiert mein Geist unabhängig von meinem Körper.“
 * Dieses Gedankenexperiment schafft es zwar, Leib und Seele zu trennen, wie es im Islam ist, aber macht die Auferstehung des Körpers unnötig, da die Seele auch ohne existieren könne, was islamischem Dogma widerspricht.
 
+### 019: Three Islamic Truths
 
+* Al-Farabi hat Aristoteles übersetzt und kommentiert; seine Arbeit hat die ibn Sinas erst möglich gemacht.
+* Al-Khindi kombiniert Platon und Aristoteles. Für ihn ist Philosophie das Erkennen aller mit der Vernunft fassbaren Wahrheit. Dazu kommt Religion für die nicht rationalen Wahrheiten.
+* Al-Gjazali kommentiert ibn Sina. Frage: Warum haben Kinder immer dieselbe Religion wie ihre Eltern? Warum glaubt jeder den Autoritäten? Was sollte die Basis für Wahrheit sein? Nur offensichtliche Wahrheiten, Gefühltes und notwendige (a-priori-)Wahrheiten. Aber warum nicht diese Wahrheiten auch anzweifeln? So wie ein Ohr keine Farben wahrnehmen kann, kann Vernunft keine Wahrheit erkennen, dafür brauchen wir Glauben. Vernunft dient nur dazu, den Glauben post hoc zu rechtfertigen.
+* Averroes greift Al-Gjazalis Position an: Philosophie und Religion sind beide gut für Erkenntnisgewinn. Religion kann jeden zur Weisheit bringen, Philosophie nur wenige. Es gibt nicht eine einzige richtige Religion, der Philosoph sollte die beste Religion seiner Zeit wählen und indossieren.
+
+### 020: Two MedievalApproaches Too God
+
+* Scholastik: Dialektische Auseinandersetzung mit Gott begründet durch Sankt Anselm von Canterbury. Wir betrachten den ontologischen Gottesbeweis.
+* Es gibt Dinge, die in unseren Gedanken existieren und Dinge, die real existieren, außerdem beides oder nichts von beiden.
+* Gott kann als Größtes gedacht werden, aber als Größtes muss es nicht nur in Gedanken, sondern wirklich existieren.
+* Problem (nach Kant): Existenz ist kein Prädikat.
+* Moses Maimonides ist ein jüdischer Philosoph, Rechtsgelehrter und Arzt. Er meint, man dürfe die Bibel nicht wirklich nehmen.
+* Gott kann keine Qualitäten haben, da Qualitäten immer eine Unterscheidung bedeuten, aber Gott ist nur Eines, über das wir nicht sprechen können. Wir können nur darüber reden, was Gott nicht ist, Stichwort *negative Theologie*.
+
+### 021: One God – St. Thomas Aquinas
+
+* Thomas versucht, Arestoteles und Christentum zu vereinen. Der unbewegte erste Beweger sei Gott.
+* Er erdenkt fünf Gottesbeweise.
+* Arestoteles: Das Universum ist ewig (im Sinne potentieller Unendlichkeit), was der Schöpfung widerspricht. Thomas: Das Universum hat als Schöpfung schon immer abhängig von Gott existiert, so wie ein Fußabdruck im Abhängigkeit des Fußes schon existiert, bevor er gemacht wurde. Die Schöpfung hat einen Zeitpunkt, aber Gott ist ewig.
+
+### 022: Blast off to the Renaissance!
+
+* Zum ausgehenden Mittelalter wütet der schwarze Tod und 40–60 Prozent der Weltbevölkerung sterben. Dies hat einen großen Einfluss aufs Denken der Menschen. Individualismus und Kurzsichtigkeit dominieren.
+* Bauern werden mächtiger, weil ein großer Mangel an Lebensmitteln herrscht. Um sie weiter bezahlen zu können, werden Löhne gesetzlich eingefroren. Aus der Gesundheitskrise wird eine Wirtschaftskrise.
+* Die Bauern lassen sich das nicht gefallen und werden aufständisch. Aus der Wirtschaftskrise wird eine politische.
+* Die Philosophie geht aus der Krise, wie auch schon zur Zeit der streitenden Reiche und zum Hellenismus, mit Neuerungen hervor. Scholastik wird abgelöst durch Humanismus.
+* Erasmus von Rotterdam vermutet, dass Religion und Philosophie nicht vereint werden können, wie die Scholastik es versucht hat. Kirche ist nicht nötig, stattdessen soll jeder eine individuelle Verbindung mit Gott finden. Philosophie ist auch schlecht: Unglück ist nicht Unwissenheit, Menschen sind glücklich, wenn sie unwissend sind. Man wird glücklich, wenn man bereit ist zu sein, was man ist.
+
+### 023: Machiavelli
+
+* Die meisten Menschen können kein Latein und müssen einfach glauben, dass die Kirche das tut, was Gott will. Es kommen jedoch Zweifel auf aufgrund der schwierigen Zeiten und einer korrupten und zerstrittenen Kirche dazu.
+* Luther übersetzt die Bibel und ermöglicht den Menschen ein persönliches Verhältnis zu Gott.
+* Tugend stellt die Frage, was richtige Handlungen sind. Wichtig ist dabei das Ergebnis.
+* Verschiedene Menschen sollten sich auf verschiedene Weise verhalten. Machiavelli beschäftigt sich mit der Tugend eines Herrschers für einen sicheren, stabilen Staat.
+* Um dieses Ziel zu erreichen, darf ein Herrscher Mittel nicht ablehnen, nur weil die meisten Menschen sie unmoralisch finden. Tatsächlich sind die Stabilisierung des Staat und Moral widersächlich.
+* Sobald allerdings ein stabiler Staat etabliert ist, ist eine Republik anzustreben, aber erst dann.
+* Ein Fürst muss sowohl Recht als auch Gewalt beherrschen und wissen, wann welche Methode anzuwenden ist.
+* Stabilität kann durch Verehrung des Herrschers oder durch Furcht erreicht werden. Verehrung ist dabei vorzuziehen.
+
+### 024: Montaigne
+
+* Michel de Montaigne hat einen Reitunfall, bei dem er fast stirbt. Er kann sich später jedoch kaum an Leid erinnern. Während er vorher große Angst vorm Tode gehabt hat, ist sie nun verschwunden.
+* Seine Philosophie ist nicht geordnet, er ist der Erfinder des Essays.
+* Er ist von allen vier hellenistischen Schulen beeinflusst, am meisten jedoch von den Skeptikern.
+* Auf gewisse Fragen gibt es keine entgültigen Antworten, und die nicht nützlich sind. Wir sollten nicht zu viel darüber nachdenken.
+* Eigene Erfahrungen sind wichtiger als alles Studien und Anekdoten anderer.
+* Philosophieren heißt lernen zu sterben.
+* Erreiche *Einsamkeit im Handeln*, das heißt, beachte andere, aber lasse Dir nichts von ihnen aufdrängen.
+
+### 025: A Scientific Method For Your Life!
+
+* Wissenssucher sind zur Zeit Francis Bacons alle Menschen, die neue Entdeckungen machen wollen, dazu gehören Wissenschaftler, Theologen und Kundschafter, aber auch Magier und Alchemisten.
+* Bacon glaubt, sie suchen nach Wissen an falschen Ort und aus den falschen Gründen.
+* Er vergleicht Abergläubige mit Ameisen, die ihre Kolonie aus Dingen bauen, die sie in der Welt finden; Rationalisten mit Spinnen, die Netze nur aus sich selbst heraus bauen; beides ist falsch, man soll sein wie Bienen, die Nektar sammeln und daraus Honig machen, das heißt man soll die Welt beobachten und die Beobachtungen veredeln.
+* Idee, wie man Wissen findet: Nach negativen Suchen. Außerdem sollte Wissenschaft staatlich sein, damit die Ergebnisse öffentlich sind. Wissenschaft sollte das oberste Ziel der Gesellschaft sein. Wissenschaft macht Tugenden obsolet: Gier ist kein Problem, wenn wir genug von allem haben, Lügen, wenn wir sie detektieren können, …
+* Es gibt vier kognitive Verzerrungen („Götzen“), die uns von guter Wissenschaft abhalten:
+    * Unsere Sinne können uns täuschen und wir können nicht die ganze Wahrheit mit ihnen erfassen.
+    * Ungerechtfertigte Überzeugungen verhindern, dass wir uns unvoreingenommen mit Dingen beschäftigen.
+    * Wir sind abhängig von Wörtern und Wörter beeinflussen unsere Vorstellungen von den Dingen, die sie beschreiben.
+    * Lang anerkannte gesellschaftliche Ansichten müssen nicht wahr sein, nur weil wir in sie hinein geboren wurden.
+
+### 026: Thomas Hobbes Part 1 – The Social Contract
+
+* Thomas Hobbes wird 1588 geboren und erlebt den englischen Bürgerkrieg.
+* Zwei Fragen: Warum braucht man überhaupt einen Staat? Welche Auswirkungen hat eine Regierung auf den Einzelnen?
+* Ohne Gesellschaft leben die Menschen im Naturzustand. Es gibt kein Eigentum, jeder kämpft alleine um sein Leben und seine Existenz. Moral existiert nicht, es herrscht steter Krieg jedes gegen jeden.
+* Es gibt drei Gründe für Menschen, im Naturzustande Krieg zu führen: Bereicherung, eigene Sicherheit und Ansehen. Alle drei sind egoistisch und lassen sich auf Selbsterhalt zurückführen.
+* Niemand kann sich sicher sein, da selbst der Stärkste nicht gegen viele Schwache gefeit ist.
+* Ziel der Menschen ist also Frieden. Dies lässt sich nicht erreichen, indem man die anderen überwältigt, sondern nur über einen Vertrag.
+* Problem: Ein Vertrag muss durchgesetzt werden, ein Eid alleine reicht nicht. Dafür brauchen wir den Leviathan, der uneingeschränkte Macht hat, um den Vertrag durchzusetzen. Auch wenn er ein Tyrann ist und man seine Handlungen nicht versteht, muss man ihm gehorchen, weil der Naturzustand auf jeden Fall schlimmer ist.
