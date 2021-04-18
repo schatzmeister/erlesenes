@@ -153,7 +153,7 @@ __Eine Moraltheorie soll mit unserem Alltagsverständnis von Moral übereinstimm
 
 ### Chapter 2: The Principles of Justice
 
-* Gerechtigkeitstheorie hat zwei Teile: Formulierung von Prinzipien anhang einer Ausgangslag, und ein Argument, welches Prinzip das zu akzeptierende ist.
+* Gerechtigkeitstheorie hat zwei Teile: Formulierung von Prinzipien anhand einer Ausgangslage, und ein Argument, welches Prinzip das zu akzeptierende ist.
 
 #### 10. Institutions and Formal Justice
 
@@ -172,8 +172,22 @@ __Eine Moraltheorie soll mit unserem Alltagsverständnis von Moral übereinstimm
 * Ob zugunsten Benachteiligter von formaler Gerechtigkeit abgewichen werden sollte, ist schwierig zu beantworten, da es Erwartungen verdreht.
 * Später: Zusammenhang zwischen formaler und substantiver Gerechtigkeit.
 
-__Eine Institution ist einerseits ein öffentliches (das heißt allen bekanntes, und jeder weiß, dass es allen bekannt ist) System von Regeln, andererseits die Realisierung dieser Regeln. Eine Institution sllte die Prinzipien der Gesellschaft befördern. Beachte: Eine unrechte Regel impliziert nicht eine unrechte Institution oder ein unrechtes System als Ganzes und umgekehrt. Eine Institution muss aber objektiv, unbestechlich und unbefangen sein. Auch unrechte Systeme müssen konsequent umgesetzt werden, da sonst noch mehr Unrecht herrschte.__
+__Eine Institution ist einerseits ein öffentliches (das heißt allen bekanntes, und jeder weiß, dass es allen bekannt ist) System von Regeln, andererseits die Realisierung dieser Regeln. Eine Institution sollte die Prinzipien der Gesellschaft befördern. Beachte: Eine unrechte Regel impliziert nicht eine unrechte Institution oder ein unrechtes System als Ganzes und umgekehrt. Eine Institution muss aber objektiv, unbestechlich und unbefangen sein. Auch unrechte Systeme müssen konsequent umgesetzt werden, da sonst noch mehr Unrecht herrschte.__
 
 ### 11 Two Principles of Justice
 
+* Wir formulieren die Prototypen unserer zwei Prinzipien. Diese werden später noch verfeinert.
+* Erstes Prinzip: Jede Person hat ein gleiches Recht auf die gleichen grundlegenden Freiheiten.
+* Zweites Prinzip: Soziale und wirtschaftliche Ungleichheiten sind gerecht, falls sie (a) vermutlich zu jedermanns Vorteil gereichen und (b) an für alle zugängliche Ämter gekoppelt sind.
+* Welche grundlegenden Freiheiten brauchen wir? Wahlrecht (aktiv und passiv), Rede- und Versammlungsfreiheit, Gedankenfreiheit, psychische und physische Integrität, Recht auf Eigentum und Freiheit von willkürlicher Haft oder Enteignung.
+* Was es bedeutet, „zu jedermanns Vorteil“ und „für alle zugänglich“ zu sein, werden wir noch präzisieren.
+* Das erste Prinzip schlägt im Zweifel das zweite. Die Grundfreiheiten können nur zum Schutze anderer Grundfreiheiten eingeschränkt werden.
+* In welchen Situationen welche Freiheiten welche anderen übertreffen, ist von der Gesellschaft festzulegen; wichtig ist, dass diese Regelungen für alle gleich gelten.
+* Unrecht ist Ungleichheit, die nicht jedermanns Vorteil gereicht.
+* Es muss zwischen sozialen Gütern wie Wohlstand, Rechten und Möglichkeiten und natürlichen Gütern wie Gesundheit und Intelligenz unterschieden werden. Die ersten haben zwar einen Einfluss auf die zweiten, aber direkt regeln kann man diese nicht.
+* Ein Vergleichspunkt, ob eine Verteilung gut ist, wird mit perfekter Gleichverteilung gesetzt. Um gerecht zu sein, muss eine Verteilung diese Benchmark erfüllen.
+* Grundfreiheiten können, aufgrund der Reihenfolge der Prinzipien, nicht gegen soziale oder wirtschaftliche Güter getauscht werden.
+* Institutionen müssen die beiden Prinzipien widerspiegeln.
+
+__Alle sozialen Güter (Freiheiten, Möglichkeiten, Rechte, Geld, …) müssen gleichverteilt werden, außer wenn durch eine ungleiche Verteilung zu jedermanns Vorteil gereicht. Grundlegende Rechte können nicht aufgegeben werden.__
 
