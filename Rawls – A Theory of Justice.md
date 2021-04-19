@@ -163,7 +163,7 @@ __Eine Moraltheorie soll mit unserem Alltagsverständnis von Moral übereinstimm
 * Ob eine Institution gerecht ist, muss anhand der Realisierung entschieden werden, beziehungsweise was für eine Realisierung unter einem System möglich ist.
 * Mit Öffentlichkeit ist gemeint, dass jeder, der dem System unterliegt, die Regeln kennt und weiß, dass die anderen es auch tun, zumindest hinreichend.
 * Eine Institution sollte so aufgebaut sein, dass ihre Teilnehmer automatisch ihren Werten zugute handeln. Beispiel: Die unsichtbare Hand mit den rationalen Egoisten als Teilnehmern.
-* Beachte: Eine unrechte Regel impliziert nicht eine unrechte Institution impliziert nicht ein untechtes Sozialsystem als Ganzes. So kann eine Ungerechtigkeit enthalten sein, die eine andere ausgleicht.
+* Beachte: Eine unrechte Regel impliziert nicht eine unrechte Institution impliziert nicht ein unrechtes Sozialsystem als Ganzes. So kann eine Ungerechtigkeit enthalten sein, die eine andere ausgleicht.
 * Die Umkehrung gilt analog.
 * Rituale müssen auch besprochen werden, aber nicht an dieser Stelle.
 * _Formale Gerechtigkeit (formal justice):_ Konsistente, unparteiische Umsetzung einer Institution. (Prinzipien- beziehungsweise Verfassungstreue)
@@ -174,20 +174,33 @@ __Eine Moraltheorie soll mit unserem Alltagsverständnis von Moral übereinstimm
 
 __Eine Institution ist einerseits ein öffentliches (das heißt allen bekanntes, und jeder weiß, dass es allen bekannt ist) System von Regeln, andererseits die Realisierung dieser Regeln. Eine Institution sollte die Prinzipien der Gesellschaft befördern. Beachte: Eine unrechte Regel impliziert nicht eine unrechte Institution oder ein unrechtes System als Ganzes und umgekehrt. Eine Institution muss aber objektiv, unbestechlich und unbefangen sein. Auch unrechte Systeme müssen konsequent umgesetzt werden, da sonst noch mehr Unrecht herrschte.__
 
-### 11 Two Principles of Justice
+#### 11 Two Principles of Justice
 
 * Wir formulieren die Prototypen unserer zwei Prinzipien. Diese werden später noch verfeinert.
 * Erstes Prinzip: Jede Person hat ein gleiches Recht auf die gleichen grundlegenden Freiheiten.
-* Zweites Prinzip: Soziale und wirtschaftliche Ungleichheiten sind gerecht, falls sie (a) vermutlich zu jedermanns Vorteil gereichen und (b) an für alle zugängliche Ämter gekoppelt sind.
+* Zweites Prinzip: Soziale und wirtschaftliche Ungleichheiten sind gerecht, falls sie (a) anzunehmender Weise zu jedermanns Vorteil gereichen und (b) an für alle zugängliche Ämter gekoppelt sind.
 * Welche grundlegenden Freiheiten brauchen wir? Wahlrecht (aktiv und passiv), Rede- und Versammlungsfreiheit, Gedankenfreiheit, psychische und physische Integrität, Recht auf Eigentum und Freiheit von willkürlicher Haft oder Enteignung.
 * Was es bedeutet, „zu jedermanns Vorteil“ und „für alle zugänglich“ zu sein, werden wir noch präzisieren.
 * Das erste Prinzip schlägt im Zweifel das zweite. Die Grundfreiheiten können nur zum Schutze anderer Grundfreiheiten eingeschränkt werden.
 * In welchen Situationen welche Freiheiten welche anderen übertreffen, ist von der Gesellschaft festzulegen; wichtig ist, dass diese Regelungen für alle gleich gelten.
 * Unrecht ist Ungleichheit, die nicht jedermanns Vorteil gereicht.
 * Es muss zwischen sozialen Gütern wie Wohlstand, Rechten und Möglichkeiten und natürlichen Gütern wie Gesundheit und Intelligenz unterschieden werden. Die ersten haben zwar einen Einfluss auf die zweiten, aber direkt regeln kann man diese nicht.
-* Ein Vergleichspunkt, ob eine Verteilung gut ist, wird mit perfekter Gleichverteilung gesetzt. Um gerecht zu sein, muss eine Verteilung diese Benchmark erfüllen.
+* Ein Vergleichspunkt, ob eine Verteilung gut ist, wird mit absoluter Gleichverteilung gesetzt. Um gerecht zu sein, muss eine Verteilung diese Benchmark schlagen.
 * Grundfreiheiten können, aufgrund der Reihenfolge der Prinzipien, nicht gegen soziale oder wirtschaftliche Güter getauscht werden.
 * Institutionen müssen die beiden Prinzipien widerspiegeln.
 
 __Alle sozialen Güter (Freiheiten, Möglichkeiten, Rechte, Geld, …) müssen gleichverteilt werden, außer wenn durch eine ungleiche Verteilung zu jedermanns Vorteil gereicht. Grundlegende Rechte können nicht aufgegeben werden.__
+
+#### 12. The Second Principle
+
+* Es gibt verschiedene Möglichkeiten, das zweite Prinzip zu verstehen. „Jedermanns Vorteil“ kann heißen, dass (a1) das *Effizienzprinzip* oder (a2) das *Differenzprinzip* gilt; „für alle zugänglich“ kann (b1) gleiche Offenheit für Talent oder (b2) gleiche Möglichkeit bedeuten. Es ergeben sich vier Kombinationen, die nachfolgend besprochen werden. Der Kontext ist immer ein im wesentlichen freier Markt.
+* Das *Effizienzprinzip* greift auf Pareto-Optimalität zurück. Eine Güterverteilung ist effizient, falls niemand mehr haben kann, ohne dass jemand weniger hat. Dabei sind in der Regel viele Verteilungen gleichwertig, beispielsweise kann auch eine Person alle Güter besitzen.
+* Im *System der natürlichen Freiheit* (a1–b1) gilt eine Verteilung als gerecht, wenn sie effizient ist, eingeschränkt wird dies nur durch die Grundfreiheiten, die durch das erste Prinzip gesichert werden. Ergibt sich aus einem gegebenen Anfangszustand eine gegebene effiziente Verteilung, so gilt sie als gerecht.
+* Dieses System ist eine schlechte Grundlage, da es vom Zufall abhängt, welcher Ausgangszustand vorliegt und somit jede effiziente Verteilung erreicht werden kann; insbesondere ist der Ausgangszustand in der Regel nicht gleich oder fair.
+* Dies soll durch *liberale Gleichheit* (a1–b2) verhindert werden. Es sollen gleiche Möglichkeiten geschaffen werden, sodass je zwei Personen mit gleichen Ambitionen und Mitteln die gleichen Ergebnisse erreichen können, unabhängig von ihrer gesellschaftlichen Klasse. Dazu werden Institutionen bereitgestellt, die ungleiche Möglichkeiten ausgleichen sollen. Dennoch werden alle effizienten Verteilungen als gerecht angesehen, so sie sich ergeben.
+* *Natürliche Aristokratie* (a2–b1) beschreibt, dass soziale Kontingenzen nicht ausgeglichen werden (abgesehen von denen, die durch das erste Prinzip gedeckt sind). Es gilt jedoch nicht jede effiziente Verteilung als gerecht, sondern nur solche, die einen Mehrwert für alle bringen – es gibt also einen Bias in Richtung einer Gleichverteilung, von der nur abgewichen werden soll, wenn dadurch alle einen Vorteil haben.
+* Liberale Gleichheit und natürliche Aristokratie sind beide arbiträr, da sie auf Zufällen aufbauen, im ersten Falle von Mitteln, im zweiten von Möglichkeiten. Das bedeutet, dass es große – eventuell sogar chaotische – Abhängigkeit vom Anfangswert geben kann.
+* *Demokratische Gleichheit* (a2–b2) versucht diese Abhängigkeit zu unterbinden. Im nächsten Abschnitt wird diese Auslegung des zweiten Prinzips erklärt und dargestellt, warum sie die zu bevorzugende ist.
+
+**Verschiedene Auslegungen des zweiten Prinzips führen zu verschiedenen Systemen, in denen Güter und Möglichkeiten verschieden reguliert werden. Systeme, in denen mindestens eines von beiden gar nicht reguliert wird, sind nicht arbiträr.**
 
