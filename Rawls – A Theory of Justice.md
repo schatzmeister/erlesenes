@@ -214,3 +214,8 @@ __Alle sozialen Güter (Freiheiten, Möglichkeiten, Rechte, Geld, …) müssen g
 * Eine Kettenverbindung oder enge Verknüpfung sind nicht notwendig im Differenzprinzip, aber wahrscheinlich, wenn das erste Prinzip umgesetzt wird.
 * *Lexikalisches Differenzprinzip:* Falls die Verknüpfung lose ist, maximiere zuerst den Wohlstand des ärmsten, dann des zweitärmsten und so weiter. In Praxis ist es aber unwahrscheinlich, dass es Anwendung findet.
 * Wir erhalten eine neue Formulierung des zweiten Prinzips, das in demokratischer Gleichheit formuliert wird: Soziale und ökonomische Ungleichheit ist dann gerecht, falls sie (a) den Zustand der am schlechtesten gestellten Klasse maximiert und (b) an öffentliche Ämter geknüpft ist, die im Sinne fairer Chancengleichheit allen offenstehen.
+
+**Das zweite Prinzip sollte als demokratische Gleichheit ausgelegt werden, das heißt, dass Ungleichheiten immer zugunsten der Ärmsten sein müssen und jeder die gleichen Chancen haben muss, in an die Ungleichheiten gekoppelte Ämter aufzusteigen.**
+
+#### 12. Fair Equality of Opportinity and Pure Procedural Justice
+
