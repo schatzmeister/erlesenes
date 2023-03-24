@@ -1,5 +1,8 @@
 # Ignore folders with additional data
 **/
 
+# Ignore .pdf renderings
+*.pdf
+
 # Some files should not be published (yet)
 *Notes*
