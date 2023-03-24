@@ -202,7 +202,7 @@ __Alle sozialen Güter (Freiheiten, Möglichkeiten, Rechte, Geld, …) müssen g
 * Liberale Gleichheit und natürliche Aristokratie sind beide arbiträr, da sie auf Zufällen aufbauen, im ersten Falle von Mitteln, im zweiten von Möglichkeiten. Das bedeutet, dass es große – eventuell sogar chaotische – Abhängigkeit vom Anfangswert geben kann.
 * *Demokratische Gleichheit* (a2–b2) versucht diese Abhängigkeit zu unterbinden. Im nächsten Abschnitt wird diese Auslegung des zweiten Prinzips erklärt und dargestellt, warum sie die zu bevorzugende ist.
 
-**Verschiedene Auslegungen des zweiten Prinzips führen zu verschiedenen Systemen, in denen Güter und Möglichkeiten verschieden reguliert werden. Systeme, in denen mindestens eines von beiden gar nicht reguliert wird, sind nicht arbiträr.**
+__Verschiedene Auslegungen des zweiten Prinzips führen zu verschiedenen Systemen, in denen Güter und Möglichkeiten verschieden reguliert werden. Systeme, in denen mindestens eines von beiden gar nicht reguliert wird, sind nicht arbiträr.__
 
 #### 13. Democratic Equality and the Difference Principle
 
@@ -215,7 +215,23 @@ __Alle sozialen Güter (Freiheiten, Möglichkeiten, Rechte, Geld, …) müssen g
 * *Lexikalisches Differenzprinzip:* Falls die Verknüpfung lose ist, maximiere zuerst den Wohlstand des ärmsten, dann des zweitärmsten und so weiter. In Praxis ist es aber unwahrscheinlich, dass es Anwendung findet.
 * Wir erhalten eine neue Formulierung des zweiten Prinzips, das in demokratischer Gleichheit formuliert wird: Soziale und ökonomische Ungleichheit ist dann gerecht, falls sie (a) den Zustand der am schlechtesten gestellten Klasse maximiert und (b) an öffentliche Ämter geknüpft ist, die im Sinne fairer Chancengleichheit allen offenstehen.
 
-**Das zweite Prinzip sollte als demokratische Gleichheit ausgelegt werden, das heißt, dass Ungleichheiten immer zugunsten der Ärmsten sein müssen und jeder die gleichen Chancen haben muss, in an die Ungleichheiten gekoppelte Ämter aufzusteigen.**
+__Das zweite Prinzip sollte als demokratische Gleichheit ausgelegt werden, das heißt, dass Ungleichheiten immer zugunsten der Ärmsten sein müssen und jeder die gleichen Chancen haben muss, in an die Ungleichheiten gekoppelte Ämter aufzusteigen.__
 
-#### 12. Fair Equality of Opportinity and Pure Procedural Justice
+#### 14. Fair Equality of Opportinity and Pure Procedural Justice
 
+* Ämter müssen für alle offen sein, selbst denen, die nicht qualifiziert sind.
+* Verteilung sollte nach einer rein prozeduralen Gerechtigkeit geschehen. Prozedurale Gerechtigkeit heißt, es gibt eine Vorstellung von gerechter Verteilung zusammen mit einer Prozedur, die diese Verteilung garantiert, zumindest soweit es die Umstände erlauben. Rein prozedural heißt jedoch, dass es kein unabhängiges Kriterium gibt; es gibt nur eine Prozedur, und das Ergebnis wird als gerecht angenommen.
+* Ergo: Wir müssen Institutionen und Systeme aufbauen, die gerechte Prozeduren umsetzen. Welche das sind, kommt später.
+
+__Gesucht wird eine gerechte Prozedur, nach der verteilt wird. Das Ergebnis wird dann auch als gerecht angenommen.__
+
+#### 15. Primary Social Good as the Basis of Expectations
+
+* Utilitarismus hat das Problem, interpersonelle Vergleiche anstellen zu müssen, aber die größere Frage ist, ob es überhaupt sinnvoll ist, das Gesamtglück zu maximieren und wie man das tun soll.
+* Das Differenzprinzip benötigt dies nicht, man braucht keine ständigen interpersonellen Vergleiche, sondern muss nur die zuunterst gestellte Person finden und ihr Glück maximieren.
+* Zudem werden interpersonelle Vergleiche einfacher, weil das Differenzprinzip nicht Glück vergleicht, sondern Zugang zu *Primärgütern (primary goods)*, man muss also nur einen Index über diese führen.
+* Beispiele für Primärgüter sind: Rechte, Freiheiten, Einkommen, Wohlstand und Selbstwert (Selbstwert betrachten wir erst in §67).
+* Wie erstellen wir also den Index? Rechte und Freiheiten sind absolut, also benötigen wir dort keinen. Für die anderen Güter reicht es praktisch, nur die Verteilung für die Ärmsten zu beachten, die Bevorteilten werden automatisch mehr bekommen.
+* Man erreicht Glück über die Erfüllung seiner Pläne. Güter sind die Werkzeuge zur Erfüllung der Pläne, aber gleiche Güter garantieren nicht gleiches Glück. Trotzdem beschränken wir uns im Differenzprinzip auf die Verteilung der Güter.
+
+__Wir müssen festlegen, auf welche Güter die Ärmsten Anrecht haben, der Rest fällt automatisch in seine Position. Beachte: Es wird nicht Glück maximiert, Güter sind nur die Werkzeuge zum Erfüllen des Lebensplanes einer Person.__
