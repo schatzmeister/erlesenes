@@ -104,8 +104,124 @@ Paul van Riper was company commander of the Marines in the Vietnam war. While he
 
 ### 4.1 One Morning in The Gulf
 
-The Joint Forces Command creates the hugely expensive *Operation Millenium* war game to test the hypothesis that supreme surveillance and intel can lift the fog of war. The motto is: Today we fight a system, not an army. Rip doesn’t agree; war were too messy to be calculated. The operation is a battle of military philosophies.
+The Joint Forces Command creates the hugely expensive *Operation Millennium* war game to test the hypothesis that supreme surveillance and intel can lift the fog of war. The motto is: Today we fight a system, not an army. Rip doesn’t agree; war were too messy to be calculated. The operation is a battle of military philosophies.
 
 Van Riper once met traders and sees in them soul mates: Both traders and generals do the same thing, only difference is that traders bet money, generals bet lives. Generals are very good at making stock market decisions, and traders are very good at war games.
 
 Rip’s Team Red wins the war game easily by not being calculable. He just sees through Team Blue’s strategy and hits it where it is vulnerable. After two days, Team Blue is defeated. They were blinded, similar to how the experts at the museum were in the case of the ancient statue.
+
+### 4.2 The Structure of Spontaneity
+
+Improv seems random, but it isn’t. It is spontaneous, but follows rules. Most important is accepting anything. Most people suppress action, improv actors embrace it. Creating conditions for successful spontaneity is important – van Riper also knows that.
+
+### 4.3 The Perils of Introspection
+
+Managers command their subordinates, not control them. Workers need freedom to be flexible and make decisions on their own.
+
+*Verbal Overshadowing* is the fact that describing a mental image makes it so that we can remember it worse. The verbal description overrides the visual one. Similarly, explaining a flash of insight can bring you out of the flow.
+
+#### 4.4 A Crisis in the ER
+
+Heart Patients take up a lot of time in the ER, but there are many false alerts. This is because doctors collect a lot of data to come to their conclusion, which takes a lot of time. The Goldman algorithm focuses on four aspects only and gives a decision suggestion – it is fast and much more accurate (and consistently so) than doctors using their own judgement. But it was only implemented out of desperation in the underfunded Chicago public hospital – now it is a gold standard.
+
+### 4.5 When Less is More
+
+The doctor-patient relationship is the most important part of an examination; the results are less important. More information doesn’t help with diagnosis (analysis paralysis), and can actively produce a worse outcome. It only increases the confidence of the decision maker. We need to edit/filter before making decisions – in thin-slicing, our subconcious does it. We can’t let ourselves drown in information. In an experiment, customers were ten times as likely to buy jam if they had only 6 types to choose from than if they had 24.
+
+A lot of information does not neccessary help with making good decisions: In chess, we have perfect knowledge, but we are far from certain to win. The most important information is hidden from us: The other player’s mind.
+
+### 4.6 The Millennium Challenge, Part Two
+
+The war game gets repeated, but this time Team Red’s actions are scripted. Team Blue wins, and the Pentagon publicly praises its superior technology. The US then goes on to fight a real war.
+
+## 5 Kenna’s Dilemma: The Right—and Wrong– Way ti Ask People What They Want
+
+Kenna is an extraordinary musician, all experts in the field immediately recognize that. But market-research results were abysmal, so he never made it to the radio.
+
+### 5.1 A Second Look at First Impressions
+
+Clinton used opinion polling in preparation of his presidential campaign and while in office – he brought market analysis to politics. But is polling really reliable? People ar every bad at reasoning through their first impressions, so why should they be able to do that in opinion polling?
+
+### 5.2 Pepsi’s Challenge
+
+In the 80’s, Pepsi did blind taste test and came out on top of Coca Cola – they used these results in marketing. In response, Coca Cola developed the New Coke which had an edge over Pepsi in blind taste tests. People hated it, and Coca Cola was forced to bring back Classic Coke. New Coke quickly went away. On the other hand: Even though Coke is apparently the worse product, it is still the number-one softdrink.
+
+### 5.3 The Blind Leading The Blind
+
+THe siptest is not very useful, because it is the wrong context for thin-slicing; the whole user journey must be taken into account.
+
+Packaging is also important. A customer sees the packaging as part of the product. A good packaging can’t sell a bad product, but it can make or break a good one.
+
+### 5.4 The Chair of Death
+
+A radically new chair was developed to be super ergonomic, but people found its looks appalling. It was launched regardless and after decades on the market it is percieved as elegant.
+
+If we don’t like something, it could be because it is bad – or because it is unusual or weird. Market research is only good relating things to similar things, not in judging how good some radical new invention is.
+
+### 5.5 The Gift of Expertise
+
+Taste testers rate food on vast amounts of factors, and their judgements correlate well with laypeoples’. But other than the latter, the former can explain how they come to the conclusion. If a layperson tries to explain why they like something, their judgement will be impeded. Experts have a better intuition and a better understanding of it; they can correlate intuition with other experiences they had before.
+
+Even if someone can differentiate between two samples in a taste test, only experts can do the triangle test: Of three samples, two are the same and one is different – find out which one. For this, one needs to be able to reason about a taste and keep it in mind for some time.
+
+### 5.6 “It Suchs What the Record Companies Are Doing to You”
+
+In the music industry, tests are not done by experts (as are in the food and packaging industry), so they don’t measure what they are supposed to. This is what screws Kenna over.
+
+## 6 Seven Seconds in the Bronx: The Delicate Art of Mind Reading
+
+Four policemen shot a young black man in the Bronx with 41 bullets, because he “was suspicious”. They misinterpreted his actions and saw a gun where it was only a wallet.
+
+### 6.1 Three Fatal Mistakes
+
+We have the ability to read people’s minds by looking at their face, and even babies can do it.
+
+The policemen misjudged several times: They instantly suspected a man who was just standing in front of his house at night. His couriosity of seeing what happened was interpreted as braze. And when they approached him, he was in terror, which was interpreted as danger by the policemen.
+
+They all got acquitted, because the jury saw an accident in what happened. Protesters saw racism. In fat it is neither: They failed at mind-reading.
+
+### 6.2 The Theory of Mind Reading
+
+Facial expressions convey meaning, especially about emotions. These expressions are universal, not cultural, and one can be trained to recognize them.
+
+### 6.3 The Naked Face
+
+Making a face creates the corresponding emotion, it is not a one-way street. Microexpressions are involuntary, subconcious expressions, typically very short. Most people have difficulties consciously recognizing them. But we are still good at recognizing facial expressions.
+
+### 6.4 A Man, A Woman, and a Light Switch
+
+Autists can’t read facial expressions – they use the same part of the brain for recognizing people as everyone uses for objects. There are situations in which the mind-reading ability gets shut of temporarily, as autists always have.
+
+### 6.5 Arguing with a Dog
+
+If we are aroused, our perception is narrowed but heightened. This can give us the ability to perform extraordinary tasks. But being too excited hinders too many functions – sometimes people can’t even call 911, because they don’t remember or their fingers won’t dial the correct number.
+
+One major reason for police brutality seems to be pursuits. These arouse officers so much that they lose their ability to thin-slice and mind-read, they temporarily get *mind-blind*.
+
+### 6.6 Running out of White Space
+
+*White space* is the time the brain needs to thin-slice, before it can react appropriately. If it doesn’t even have a few seconds, a misjudgement – which is often based in stereotypes – is likely.
+
+Patrols with only one police officer are statistically as safe as buddy systems, but they cause less harm to other people and less complaints. There are protocols to slow everything down – this removes many opportunities for mistakes. Departments with many complaints are often those in which the protocols are not followed strictly.
+
+### 6.7 “Something in My mind Just Told Me I Didn’t Have to Shoot Yet”
+
+An experienced officer catches a teenager with a gun. He doesn’t shoot because he just knows that the boy will drop the weapon – and he is correct.
+
+We can train to improve our thin-slicing in agitating situations, like mind-reading under stress. Experienced officers shoot much less bullets than youger ones.
+
+### 6.8 Tragedy on Wheeler Avenue
+
+The incident in the opening paragraph lasted around seven seconds – not enough time for the young and inexperienced policemen. They were mind-blind and had no white space. This is the reason for this incident.
+
+## Conclusion: Listening with Your Eyes: The Lessons of *Blink*
+
+Abbie Conant is a trombone player who only got the job at Munich Philharmonic orchestra because she played behind a screen, which was rare practice at that time. The auditioners thin-sliced her performance and found her perfect. But then a legal battle ensued after the orchestra discriminated against her, basically on ground of being a woman. She won several court cases. Similarly, a Japanese stumped a committee when he could play a European piece with soul.
+
+### C.1 A Revolution in Classical Music
+
+In the 80’s, the hiring process for orchestras got standardized and more fair – first of all screens. This lead to more women and POC getting the job, because they were the objectively better choice. Without screens, looking at the performers would inhibit on the ability to thin-slice for the hiring committee.
+
+### C.2 A Small Miracle
+
+So, what are the lessons? First, thin-slicing is difficult. You need a lot of training, and you need to be aware of your powers to use them correctly. And secondly, you need to create the right context for thin-slicing. Don’t thin-slice the wrong thing or create an environment that makes you “blind”.
