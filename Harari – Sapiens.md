@@ -121,3 +121,72 @@ Early societies were based on favors, obligations and occasional barter with out
 Cold and coins spread from Lydia over the whole world, because money doesn’t need you to believe in it to work, it only needs you to believe that others believe in it. Therefore, if someone else finds coins valuable, you also have an interest in gaining hold of them.
 
 Money creeps into many spheres, but there are always taboos on what should be able to be bought and what not (and the taboos are, of course, broken). The biggest impact is that money carries trust, so we don’t need to trust strangers anymore. We only need to trust their money. On the other hand, this undermines our trust in someone if no money is involved.
+
+### 11. Imperial Visions
+
+Stories of barbarians were very successful in the Roman Empire, and often they are the only source for the subdued tribes. The barbarians never won, and their cultures are completely lost. Most notable is the language. Almost all humans speak (the descendant of) an imperial language nowadays.
+
+Most peoples’ names just mean “people”, excluding anybody who is not part of the people. Empires, on the other hand, are *inclusive*, they have ambitions to rule over the whole world. The ruling elite often believes that they spread their culture to barbarians for their sake; but the empire also incorporates local traditions into a large amalgamate.
+
+It takes time, but after some time, the conquered are seen as equal: Late Roman emperors were mostly not of italic descend. There is an imperial circle:
+
+- A small group dominates its neighbors and becomes the major power in the region.
+- An imperial culture develops; the dominating group sees itself as superior, spreading culture to barbarian outsiders.
+- The imperial culture spreads.
+- Subjects demand equal status, after adjusting to the dominant culture.
+- The founders of the empire lose dominance, the empire collapses.
+- The imperial culture lives on, without the empire.
+
+Reverting the influence of an empire is almost impossible, and it would most likely get back to a state of a previous, smaller empire. Empires get more and more encompassing, and a global empire is imminent.
+
+### 12. The Law of Religion
+
+Myths are fragile, they can – other than biology – be changed at any time. Religion is a way to stabilize a myth by using super-human (note: not super-natural) legitimacy. Thus, besides money and empires, religion is the third big unifier.
+
+A religion has two defining properties: It is a set of rules and norms to be followed, and it has super-human legitimacy. Therefore, believing in ghosts (lacking the first) and football (lacking the second) are not religions.
+
+A successful religion has two more factors: It is universal – the superhuman is everywhere – and it is missionary. Such religions only really emerged around 1000 BCE.
+
+Early religions were local and exclusive, but the agricultural revolution came with a religious as well: Plants and animals are no longer seen as equal but as property; gods mediate between them and humans. This exalted not only gods but also humans who were the only ones who could talk to gods.
+
+Polytheistic religions tend to believe in a universal, impartial, and uninterested power (like fate) and in gods with partial powers and interests, which are also subject to this power. This is a good basis for tolerance. Most polytheistic religions also have animistic remains like local spirits.
+
+Over time, some tribes regarded one god as the most important one, ending worship of the others (henotheism, evolving into local or temporary monotheism). Monotheistic religions tend to be more fanatic – they don’t allow other gods after all – but elements of polytheism remain (like saints in Catholicism). Monotheism also has the problem of theodicy, dualism (meaning a good and an evil force fighting each other) can solve this, see for example Zoroastrianism. But dualism has difficulties explaining order – there needs to be a common rule for the fight between the two forces.
+
+In the end, all religions are *syncretic*, taking ideas from multiple sources. The single world religion might be a syncretism.
+
+There are natural-law religions that don’t appeal to a god, like Buddhism, in which the central question is not “God exists. How can I please him?” but “Suffering exists. How can I remove me from it?”. But these religions don’t move away from gods or saints (see Bodhisattva).
+
+Ideologies like liberalism, communism, and capitalism are also religions according to our definition, and have the same markers: martyrs, holy wars, heretics, holidays, prophets and holy scriptures. They are also syncretic – you can believe in several ideologies at the same time.
+
+The most widespread religion nowadays is humanism. It comes in three forms:
+
+1. *Liberal humanism:* Each human, individually, is sacred, there are human rights. This is rooted in monotheism, especially Christianity.
+2. *Social humanism:* The whole species is sacred, collectively. Nothing should stand over the human essence, ensuring equality between humans. For example, if money comes with power, that means that wealth is valued higher than the human essence – which cannot be. Social humanism is also rooted in Christianity.
+3. *Evolutionary humanism:* The human species can evolve – for the better or the worse. The sacred value is to help humanity to become better. A prime example for this type of ideology is Nazism.
+
+### 13. The Secret of Success
+
+We can explain *how* things happened but not *why*. *A* global society was probably inevitable, but not *this one*. It happened mostly by chance.
+
+Politics is chaotic, and it cannot be predicted (the act of predicting would change the outcome). This means we can only study history to broaden our understanding of how arbitrary it is. Its goal is not to predict the future.
+
+Politics also doesn’t evolve to increase well-being. Just how genes are successful if they make the species fitter – and not the individual – memes are successful, if they spread. For example, game theory shows that in many of the studied scenarios the best action for an individual lets everybody be worse off.
+
+## Part Four: The Scientific Revolution
+
+### 14. The Discovery of Ignorance
+
+The scientific revolution changed the world rapidly and radically. In a few decades, the world changed more than in centuries before. This came from a different way of trying to understand the world: While before, people thought that all interesting questions were already answered (mostly by the holy scriptures), we now admit that there are interesting things that we still don’t know. We systematically create theories using observation and mathematics, and use the theories to gain new powers and technologies.
+
+The problem coming from this: Myths are also not ultimate wisdom anymore, making them unstable. To keep stable systems, we must either keep science out of politics, or declare certain scientific insights as final. The Nazis did this with their race theory, unsuccessfully.
+
+Fundamental to science is the use of the language of math. The advent of statistics was the most important, because it meant that even harder-to-formalize fields could use math and legitimize themselves.
+
+Knowledge is power, meaning the truth of a theory is secondary. Most important is that is useful. Still, the link between science and technology is a recent phenomenon. Science, industry and military technology only really intertwined during the industrial revolution.
+
+There are two kinds of poverty: Social poverty is people missing out on opportunities others have. Biological poverty is people having no access to enough resources to fulfill their biological needs. While the first one still exists, the second one is in large parts eradicated – something nobody could imagine just a few centuries ago. Maybe the first one will be gone soon as well.
+
+The biggest project of the scientific revolution is ending death – another thing accepted as inevitable fact before. Best improvements were made in child mortality: 25–30 percent children died as recently as a hundred years ago, nowadays, it is less than one percent. Age expectancy rose from 25–40 years to 60–80. A-mortality (meaning not dying of natural causes anymore) could be achieved by some people before the end of the century. A sign of that is that religions (that is ideologies) don’t talk about death anymore, even though it was central to many religions before.
+
+Science is very expensive, though, and only politics and religion can decide what research should be financed.
