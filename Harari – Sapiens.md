@@ -50,7 +50,7 @@ The cognitive revolution enabled the settlement of Australia around 45 kYBP and 
 
 ### 5. History’s Biggest Fraud
 
-Domestication started around 11 kYBP and finished around 5500 YBP. 90 % of the calorie intake worldwide comes from domesticated plants and animals.
+Domestication started around 11 kYBP and finished around 5500 YBP. Ninety percent of the calorie intake worldwide comes from domesticated plants and animals.
 
 The agricultural revolution happened several times and then spread around the world. It only happened in specific places, because only certain species are amenable to domestication.
 
@@ -190,3 +190,59 @@ There are two kinds of poverty: Social poverty is people missing out on opportun
 The biggest project of the scientific revolution is ending death – another thing accepted as inevitable fact before. Best improvements were made in child mortality: 25–30 percent children died as recently as a hundred years ago, nowadays, it is less than one percent. Age expectancy rose from 25–40 years to 60–80. A-mortality (meaning not dying of natural causes anymore) could be achieved by some people before the end of the century. A sign of that is that religions (that is ideologies) don’t talk about death anymore, even though it was central to many religions before.
 
 Science is very expensive, though, and only politics and religion can decide what research should be financed.
+
+## 15. The Marriage of Science and Empire
+
+Pre-modern Europe was globally insignificant, India and China made up two thirds of global production. But the unique European societal structure allowed for a rapid adoption of technological advances, which in turn helped to establish global dominance.
+
+What structure was it? Most empires try to spread their, as they perceive it, superior culture and knowledge to others. European imperialism was seeking knowledge and discovery, instead. The scientific revolution started with the discovery of America and the realization that we are ignorant, leading to thirst for knowledge in Europeans. Europeans conquered America by just trying.
+
+Imperialism and science work together well. The British knew more about their subjects than the subjects themselves, making it easy to rule over them. Science also gives a justification to imperialism: Conquest leads to scientific advances, which were valued in Europe. Science could also be used to “prove” the superiority of Europeans. Racism used to be an acceptable view, but it is overturned by culturism nowadays.
+
+### 16. The Capitalist Creed
+
+Credits are a modern invention, and they only work if the economy grows, so that interest can be paid. This requires trust in a better future; previously, the world was regularly seen as in decline, having had their golden age to the times of the prophets. Making money was seen as sinful – if there is no growth, accumulating wealth means taking it from someone else. The expectation of economic growth fits well with the scientific revolution, which is the belief in growth of knowledge.
+
+Capital is not wealth; capital is reinvested while wealth is spent or lies around. Capitalism comes with an ethics of boosting growth, maybe by funding science. Empires also enable capitalism because they are a good guarantee that credits are returned: When British people bought Greek war bonds for their independence war against the Ottomans, and the Greece were about to lose, the British stepped in and defeated the Turkish armies.
+
+While the Spanish and French kings lost trust, the British and Dutch rose to power by being creditworthy. Credit rating not only depends on economic power but also politics, diplomacy, social and cultural factors.
+
+Capitalism works the best if left alone by politics, but completely free rein leads to bad conditions for most people. Slavery came up at the same time as capitalism in Christian culture – sugar plantations wouldn’t have been affordable otherwise. Capitalism is not evil, but greed is its main value, and the indifference towards anything else killed hundreds of millions of people.
+
+### 17. The Wheels of Industry
+
+For a long time, people could barely transform energy from one form to another, except food. Food is very dependent on the sun and its cycles though. Then, heat energy could be harnessed using steam power, then electricity. The industrial revolution is a revolution in energy conversion.
+
+Also, the more and more materials are available, and they get cheaper and cheaper. Before the industrial revolution, more than ninety percent of people were farmers, now it is less than two percent. For the first time, supply was greater than demand. This makes capitalism fragile, but a solution was created: Consumerism replaced frugality. Before, luxury and lavishness were seen as sinful, now frugality is seen as poor.
+
+### 18. A Permanent Revolution
+
+We extract ever more energy and resources from the world, but this exploitation changes it – in a way that is bad for us, see climate change. We all adopted industrial time, even where it is not necessary. Additional changes the industrial revolution brought us: Urbanism, the proletariat, democracy, and anti-patriarchy.
+
+But the biggest change is the replacement of family and the local intimate community by state and market. Before, most matters were resolved by the (broader) family, or the community. Most transactions (over ninety percent) didn’t involve payments but favors. Individualism got created, bringing liberty on the one hand and alienation on the other.
+
+The nuclear family still exists but mostly only fulfil emotional needs anymore. Intimate communities got replaced by imagined ones, chiefly nationalism and consumer tribes. Those existed before, but played a minor role.
+
+Violence has plummeted, especially deaths through wars. In particular, empires retired mostly peacefully in the last centuries, instead of collapsing violently – most notable the Soviet Union.
+
+For the first time, we not only have absence of war, but peace: It is implausible for most pairs of countries to go to war with another in the near future. For example, a few hundred years ago, there was a possibility for almost any two neighboring countries to be at war within a years’ time or so. Today, this is almost unthinkable for most countries that such an escalation could happen, especially not within a few years.
+
+### 19. And They Lived Happily Ever After
+
+Are we happier than ever? How can global happiness be measured? Should animal happiness be included – because then we probably live in the unhappiest times ever.
+
+A common tool nowadays is measuring subjective happiness and correlating it with people’s environment. This shows that money and illness have mostly short-term impacts but family and community are highly correlated. Most important seem to be our expectations: If we don’t expect much, we are happy with what we have.
+
+If we are exposed to ideals we don’t achieve, that may make us less happy. For example, if we live in a community of a hundred people, we will probably think that we are quite pretty, because there are only few comparison points. But when we are surrounded by photoshopped models, we feel ugly. Finding meaning is helpful. If you delude yourself into finding a reason or purpose, you may be happier.
+
+There are not only psychological but also biological factors: Individual happiness depends heavily on a genetic set-point level of certain hormones. How happy someone can be, depends partly on their genes.
+
+Liberalism assumes that the subject knows their feelings best – but do they? Many old religions assume not. In Buddhism, happiness is not pleasure or absence of pain, but stopping all cravings, because pleasure always comes with the wish to continue the pleasure and the fear it could end.
+
+### 20. The End of *Homo Sapiens*
+
+Up until now, history was always confined within the borders of biology, but humans were able to manipulate it when they started to domesticate. Now, with genetic engineering, evolution gets replaced by intelligent design. This means that the scientific revolution is not only historical but also biological.
+
+There are, to our current knowledge, three ways of surpassing biology: We could bioengineer ourselves to become a new species. Bionics could be used to create cyborgs, replacing or augmenting parts of our bodies. Or we could create non-organic evolution and AI.
+
+There are many ethical, legal, social, and political implications and questions to be answered. This is called the *Human Enhancement Question*.
